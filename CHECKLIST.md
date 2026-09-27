@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: El Salvador.
+the list in the order below — next up: Honduras.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -136,11 +136,11 @@ new entries follow the stricter rule.
 - [x] Curacao
 - [x] Dominica
 - [x] Dominican Republic
-- [ ] El Salvador
-- [ ] Grenada
-- [ ] Guatemala
-- [ ] Guyana
-- [ ] Haiti
+- [x] El Salvador
+- [x] Grenada
+- [x] Guatemala
+- [x] Guyana
+- [x] Haiti
 - [ ] Honduras
 - [ ] Jamaica
 - [ ] Mexico
