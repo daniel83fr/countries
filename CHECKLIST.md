@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Sao Tome and Principe.
+the list in the order below — next up: South Africa.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -104,11 +104,11 @@ new entries follow the stricter rule.
 - [x] Niger
 - [x] Nigeria
 - [x] Rwanda
-- [ ] Sao Tome and Principe
-- [ ] Senegal
-- [ ] Seychelles
-- [ ] Sierra Leone
-- [ ] Somalia
+- [x] Sao Tome and Principe
+- [x] Senegal
+- [x] Seychelles
+- [x] Sierra Leone
+- [x] Somalia
 - [ ] South Africa
 - [ ] South Sudan
 - [ ] Sudan
