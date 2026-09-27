@@ -9,50 +9,49 @@ baseball-stadium clap-and-drum rhythm (the same call-and-response energy
 as a CPBL crowd), electric guitar and synths lifting into the chorus,
 temple-festival gongs and firecracker-style percussion hits as accents.
 
-LYRICS:
+LYRICS (Mandarin, pinyin):
 
-[Intro]
+[Kaichang]
 (Suona horn blast over a stadium clap track)
 Zhonghua Taipei... jiayou...
 
-[Verse 1]
-Night market steam rising over neon-colored streets,
-A stadium of scooters parked for nine full innings' heat,
-Taroko's cliffs stand taller than a mountain has to be,
-And every plum blossom still blooms after the coldest sea.
+[Zhu Ge 1]
+Ye shi zhengqi piao zai huoli sise de jietou shang,
+Man man ji che ting man, wei le jiu ju de re du,
+Taiyugu de shan bi bi shanhai gai gao hai gao,
+Mei duo meihua zai zui leng de haian yiran sheng kai.
 
-[Pre-Chorus]
-From Yushan's peak down to the harbor's glowing light,
-This island's heartbeat never rests, not even at night.
+[Zhu Chang Qian]
+Cong Yushan de shan ding dao gangwan de guang mang,
+Zhe zuo dao de xintiao congwei tingxie, ji shi ye li ye bu.
 
-[Chorus] (viral hook, Mandarin + English)
+[Fu Chang] — the hook: "jiayou" means "keep going/add oil"
 Zhonghua Taipei, jiayou! Zhonghua Taipei, jiayou!
-(Chinese Taipei, go! Chinese Taipei, go!)
-Da jia yiqi jiayou!
-(Everyone, add oil together!)
+Dajia yiqi jiayou!
+Zhonghua Taipei, jiayou!
 
-[Verse 2]
-Grandma's fan still waves the rhythm every summer game,
-The crowd claps out a heartbeat that no scoreboard can tame,
-Small island, big shout, echoing off every hill,
-When the ninth inning comes, nobody's sitting still.
+[Zhu Ge 2]
+Amma de shan zi reng zai mei chang xiaji bisai bai dong jiezou,
+Guanzhong pai chu de xintiao shi jipan feng bu zhu de,
+Xiao xiao de dao, da da de sheng, huixiang mei zuo shan tou,
+Dang jiu ju lai lin, mei ge ren dou zuo bu zhu.
 
-[Chorus]
+[Fu Chang]
 Zhonghua Taipei, jiayou! Zhonghua Taipei, jiayou!
-Da jia yiqi jiayou!
+Dajia yiqi jiayou!
 
-[Bridge]
-The plum blossom opens when the winter's at its worst,
-This island learned to bloom by going through it first —
-Whatever the name on the scoreboard light,
-We know exactly who we are tonight.
+[Qiao Duan]
+Meihua zai dong tian zui leng shi zhan fang,
+Zhe zuo dao xian xue hui le zai kunjing zhong shengchang —
+Wulun jipan shang xie de shi shenme mingzi,
+Jinye women qingchu zhidao ziji shi shei.
 
-[Final Chorus — full stadium]
+[Zui Hou Fu Chang]
 Zhonghua Taipei, jiayou! Zhonghua Taipei, jiayou!
-Da jia yiqi jiayou!
+Dajia yiqi jiayou!
 Jiayou! Jiayou!
 
-[Outro — chant tag]
+[Wei Sheng]
 Jiayou! Jiayou! Zhonghua Taipei!
 
 CULTURAL NOTE:
@@ -62,5 +61,5 @@ Yushan (the island's highest peak), and the plum blossom (the national
 flower, prized for blooming through winter cold as a symbol of
 resilience). Uses "Zhonghua Taipei" (中華台北), the actual name fans use when
 cheering under this designation, so it's authentic rather than politically
-loaded. Have a native Taiwanese Mandarin speaker review phrasing before
-recording.
+loaded. Written in pinyin; have a native Taiwanese Mandarin speaker review
+phrasing before recording.

@@ -268,12 +268,12 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Cape Verde
 - [x] Central African Republic
 - [x] Chad
-- [ ] China PR
-- [ ] Chinese Taipei
-- [ ] Comoros
-- [ ] Congo
+- [x] China PR
+- [x] Chinese Taipei
+- [x] Comoros
+- [x] Congo
 - [ ] Djibouti
-- [ ] DR Congo
+- [x] DR Congo
 - [ ] Egypt
 - [ ] Equatorial Guinea
 - [ ] Eritrea

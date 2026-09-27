@@ -9,50 +9,49 @@ over taiko-scale drums and lion-dance cymbal crashes, dizi flute
 ornamentation in the verses, opening into a full-band, synth-and-guitar
 chorus built for a packed stadium chant.
 
-LYRICS:
+LYRICS (Mandarin, pinyin):
 
-[Intro]
+[Kaichang]
 (Deep drum roll and cymbal crash, erhu cuts through)
 Zhongguo... jiayou...
 
-[Verse 1]
-Ten thousand li of wall still climbing up the mountain spine,
-A river of red lanterns marking out the finish line,
-Grandmother's hands still fold the dumplings before the game,
-Every generation passes down the same old flame.
+[Zhu Ge 1]
+Wan li changcheng yiran pa shang shanmai de jicheng,
+Yi tiao hong denglong de he liu biaoji zhe zhongdian xian,
+Nainai de shuang shou reng zai bisai qian bao zhe jiaozi,
+Mei yi dai dou chuan cheng zhe tong yi tuan huo yan.
 
-[Pre-Chorus]
-From the Great Wall's shadow to the stadium light,
-One dragon, one heartbeat, rising through the night.
+[Zhu Chang Qian]
+Cong changcheng de yinying dao tiyuchang de dengguang,
+Yi tiao long, yi ke xin, zai ye se zhong shengqi.
 
-[Chorus] (viral hook, Mandarin + English)
+[Fu Chang] — the hook: "jiayou" (add oil) means "go/keep fighting"
 Zhongguo, jiayou! Zhongguo, jiayou!
-(China, add oil! Go, China!)
-Yi qi jiayou! Zhongguo, jiayou!
-(Add oil together! Go, China!)
-
-[Verse 2]
-The drum before the lion dance still sets the whole street's pace,
-A billion different stories wearing one red-and-gold face,
-When the whistle starts the match the whole nation leans in close,
-This is the roar that traveled every dynasty and road.
-
-[Chorus]
+Yiqi jiayou! Zhongguo, jiayou!
 Zhongguo, jiayou! Zhongguo, jiayou!
-Yi qi jiayou! Zhongguo, jiayou!
 
-[Bridge]
-We are the wall that never learned to fall,
-We are the drum that answers every call —
-Add the oil, let the fire climb,
-This is our moment, this is our time.
+[Zhu Ge 2]
+Wushi qian de gu sheng reng ding zhe zhengtiao jie de jiezou,
+Yi yi ge butong de gushi dai zhe tong yi zhang hong jin lian,
+Dang shao sheng xiangqi bisai kaishi quan guo dou tie jin,
+Zhe shi chuanbian mei ge chaodai he dao lu de nahan.
 
-[Final Chorus — full stadium]
+[Fu Chang]
 Zhongguo, jiayou! Zhongguo, jiayou!
-Yi qi jiayou! Zhongguo, jiayou!
+Yiqi jiayou! Zhongguo, jiayou!
+
+[Qiao Duan]
+Women shi cong wei dao xia de changcheng,
+Women shi huiying mei yi sheng huhuan de gu —
+Jia shang you, rang huoyan pan sheng,
+Zhe shi women de shike, zhe shi women de shidai.
+
+[Zui Hou Fu Chang]
+Zhongguo, jiayou! Zhongguo, jiayou!
+Yiqi jiayou! Zhongguo, jiayou!
 Jiayou! Jiayou! Zhongguo!
 
-[Outro — chant tag]
+[Wei Sheng]
 Jiayou! Jiayou! Zhongguo!
 
 CULTURAL NOTE:
@@ -60,5 +59,6 @@ Built around "jiayou" (加油, literally "add oil"), the single most iconic and
 widely used cheer in Chinese sporting culture worldwide — an instantly
 recognizable, already-viral hook rather than an invented one — paired with
 the Great Wall and lion-dance imagery that read as authentically Chinese to
-both locals and outsiders. Have a native Mandarin speaker confirm tone and
-phrasing for singability before recording.
+both locals and outsiders. Written in pinyin; have a native Mandarin
+speaker confirm characters, tone, and phrasing for singability before
+recording.
