@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Suriname.
+the list in the order below — next up: US Virgin Islands.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -151,9 +151,9 @@ new entries follow the stricter rule.
 - [x] St Kitts and Nevis
 - [x] St Lucia
 - [x] St Vincent and the Grenadines
-- [ ] Suriname
-- [ ] Trinidad and Tobago
-- [ ] Turks and Caicos Islands
+- [x] Suriname
+- [x] Trinidad and Tobago
+- [x] Turks and Caicos Islands
 - [ ] US Virgin Islands
 - [ ] United States
 
