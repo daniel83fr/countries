@@ -10,50 +10,49 @@ rhythm — its real traditional structure — layered with island guitar and
 ocean-wave sound design, opening into a full-band chorus with massed crowd
 vocals.
 
-LYRICS:
+LYRICS (Dhivehi, romanized):
 
-[Intro]
+[Fashamun]
 (Boduberu drums begin slow, chant rising over gentle wave sound)
 Dhivehi Raajje... Dhivehi Raajje...
 
-[Verse 1]
-A thousand islands scattered like a necklace on the blue,
-No mountain here to hide behind, just open sky and view,
-Fishermen have read this ocean longer than the maps can show,
-And every drumbeat on the sand still tells us where to go.
+[Bandi 1]
+Ekas rasgai dhihen jehey nilamehaka in'dhu bohvefa,
+Ehen kaamah furagandhalaa dhaumeh mieh netheve, feenumaa aakah tha,
+Mahujaanunge dhozun'dhuveh mi kudhi kiyaamuge ekulhun ithuru,
+Aai dhandu ge san'dhaanugai adhives fahangaifa boalaa gothun.
 
-[Pre-Chorus]
-From the reef below the surface to the sunset on the sand,
-This is the smallest nation with the widest reach of land.
+[Kôrus ge Kurin]
+Fadhuge dhashun fen dho'ah, iru ashi vareh boalaa velaanah,
+Miee ehen rasgan'du emme kudi, magu emme ithuru dhemi.
 
-[Chorus] (viral hook, Dhivehi + English)
-Dhivehi Raajje! Dhivehi Raajje!
-(Maldivian nation! Maldivian nation!)
-Ekee vamaa, Dhivehi Raajje!
-(Let's go together, Maldivian nation!)
-
-[Verse 2]
-The boduberu drummer starts it slow and then it climbs,
-Faster, louder, wilder — like the tide against the times,
-The whole world sees our postcard but they never see the beat,
-The one that's carried fishermen home on every single street.
-
-[Chorus]
+[Kôrus] — the hook: "Dhivehi Raajje" is the real Dhivehi name for the Maldives; "ekee vamaa" means "let's go together"
 Dhivehi Raajje! Dhivehi Raajje!
 Ekee vamaa, Dhivehi Raajje!
+Dhivehi Raajje! Dhivehi Raajje!
 
-[Bridge]
-Islands small enough to hold within one hand,
-But a spirit far too big for any land —
-Drum and wave and coral reef below,
-This is the rhythm only Maldivians know.
+[Bandi 2]
+Boduberu vaguthu fashaigen dhen ithuru vejje,
+Avahah, boa kohlaa gothun — dhandu ge san'dhaanaa gulhigen,
+Dhuniyeah fenna ekani thasveeru, beat eh nu bunevey,
+Eii mahujaanunge kolha kaanthama gengaadhinu iru dhaathi.
 
-[Final Chorus — full crowd]
+[Kôrus]
+Dhivehi Raajje! Dhivehi Raajje!
+Ekee vamaa, Dhivehi Raajje!
+
+[Buriji]
+Rasgan'du eh atugai othaa varah kudi,
+Namaves rooheh kavayaka than eh nethi bodu —
+Boalaa dhandu aai fara feshigen dhaathi,
+Miee Dhivehinnah engey rithum eh.
+
+[Fahu Kôrus]
 Dhivehi Raajje! Dhivehi Raajje!
 Ekee vamaa, Dhivehi Raajje!
 Raajje! Raajje!
 
-[Outro — chant tag]
+[Nimun]
 Dhivehi Raajje! Dhivehi Raajje!
 
 CULTURAL NOTE:
@@ -61,4 +60,7 @@ Built on boduberu, the Maldives' real signature drum tradition, which
 genuinely starts slow and accelerates into a frenzy — a natural, authentic
 structure for a song's own build. "Dhivehi Raajje" is the actual Dhivehi
 name for the Maldives, making it an instantly recognizable, non-generic
-hook. Have a native Dhivehi speaker review verse phrasing before recording.
+hook. Written in romanized Dhivehi as a low-confidence best-effort draft
+— Dhivehi has limited training data available to this model — so a
+native Dhivehi speaker/lyricist should treat this as a sketch to rework
+in Thaana script before recording.

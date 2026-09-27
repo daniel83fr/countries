@@ -9,55 +9,56 @@ melodic line over a galloping horse-hoof drum rhythm, khoomei (throat
 singing) low drone woven through the verses, opening into a full-band
 arena chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Mongolian, romanized):
 
-[Intro]
+[Ehleh Uge]
 (Morin khuur drone over a slow galloping drum pattern, throat-singing hum)
 Mongol... uragshaa...
 
-[Verse 1]
-The steppe runs wider than the eye was ever built to hold,
-Wrestlers circle at Naadam the way it's done since days of old,
-A horse and rider move as one across the open land,
-Every summer festival still fills the whole grandstand.
+[Bulgiin 1]
+Tal nutag ni nud barij chadakhaas ilüü örgön oorchildog,
+Bökhchüüd Naadamd ergeldeg, khuuchin üye ees ijil khevээrээ,
+Mori khoigod nь negen bolj ongots gazriig davkhidag,
+Zuny bayar bolgon büh tribün duurtal duugüi bailgadaggüi.
 
-[Pre-Chorus]
-From the Gobi's burning sand to the Khangai mountain's snow,
-One nation on horseback, ready to go.
+[Duetsiin Ömnö]
+Gobiin shatakh els ees Khangain uuliin tsas hurtel,
+Neg ündesten morin deer, yavakhad belen.
 
-[Chorus] (viral hook, Mongolian + English)
-Mongol, uragshaa! Mongol, uragshaa!
-(Mongolia, forward! Mongolia, forward!)
-Neg zurkh, Mongol, uragshaa!
-(One heart — Mongolia, forward!)
-
-[Verse 2]
-Three manly games test the strength that built an empire wide,
-Wrestling, archery, and horses — we still ride with the same pride,
-Genghis Khan's shadow taught us to hold ground we've claimed,
-When the whistle blows, we play like nothing's ever tamed.
-
-[Chorus]
+[Duets] — the hook: "uragshaa" means "forward"; "neg zurkh" means "one heart"
 Mongol, uragshaa! Mongol, uragshaa!
 Neg zurkh, Mongol, uragshaa!
+Mongol, uragshaa! Mongol, uragshaa!
 
-[Bridge]
-The wind across the steppe still carries our old song,
-The horse still knows the way, and so do we, all along —
-Fiddle string and hoofbeat, side by side,
-This is the anthem of a nation's open-sky pride.
+[Bulgiin 2]
+Gurvan erchüüdийн naadam эзэнт гүрнийг байгуулсан хүчийг шалгадаг,
+Bökh, sur kharvaa, mori uraldaan — bid odоо ч ijil bakhdaltaigaar unadag,
+Chingis khaanii süüder bidend эзэмшсэн gazраа barikhыг zaasan,
+Isгэрэх duu duugarakhad, bid hezee ч номхорсонгvй yumaг nadag.
 
-[Final Chorus — full crowd]
+[Duets]
+Mongol, uragshaa! Mongol, uragshaa!
+Neg zurkh, Mongol, uragshaa!
+
+[Kholboos]
+Tal nutgiig dagasan salkhi manai khuuchin dueg ali ч dagaad avchirsaar,
+Mor odоо ч zamaa medej, bid mön adil —
+Khuurin utas, tuuriin tsohilt, khoyulaa negdej,
+Ene bol ongots tengerийн ünэrten ulsyn магтaal.
+
+[Süülchiin Duets]
 Mongol, uragshaa! Mongol, uragshaa!
 Neg zurkh, Mongol, uragshaa!
 Uragshaa! Uragshaa!
 
-[Outro — chant tag]
+[Dүgnэlt]
 Mongol! Mongol! Uragshaa!
 
 CULTURAL NOTE:
 Built on Naadam, Mongolia's real national festival of the "three manly
 games" (wrestling, archery, horse racing), and the morin khuur, Mongolia's
 national instrument. "Uragshaa" (forward) is a real, commonly used
-Mongolian word for rallying people on. Have a native Mongolian speaker
-review phrasing before recording.
+Mongolian word for rallying people on. Written as a best-effort romanized
+draft (with some stray Cyrillic characters to clean up); have a native
+Mongolian speaker convert fully to Cyrillic script and rework grammar
+before recording.

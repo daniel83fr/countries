@@ -293,11 +293,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Kyrgyzstan
 - [x] Laos
 - [x] Lebanon
-- [ ] Macau
-- [ ] Malaysia
-- [ ] Maldives
-- [ ] Mongolia
-- [ ] Myanmar
+- [x] Macau
+- [x] Malaysia
+- [x] Maldives
+- [x] Mongolia
+- [x] Myanmar
 - [ ] Nepal
 - [ ] North Korea
 - [ ] Oman
