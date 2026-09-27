@@ -303,11 +303,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Oman
 - [x] Pakistan
 - [x] Palestine
-- [ ] Philippines
-- [ ] Qatar
-- [ ] Republic of Ireland
-- [ ] Saudi Arabia
-- [ ] Singapore
+- [x] Philippines
+- [x] Qatar
+- [x] Republic of Ireland
+- [x] Saudi Arabia
+- [x] Singapore
 - [ ] South Korea
 - [ ] Sri Lanka
 - [ ] Syria

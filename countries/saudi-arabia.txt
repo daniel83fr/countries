@@ -9,50 +9,49 @@ Ardah-driven stadium anthem. Ardah sword-dance drums and chant patterns
 chanted over drums) form the backbone, oud melody threading through the
 verses, opening into a full-band arena chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Arabic, transliterated):
 
-[Intro]
+[Muqaddima]
 (Ardah drum pattern builds, poetry-chant murmur underneath)
 Ya Saudia... ya Saudia...
 
-[Verse 1]
-Swords raised high in a line as old as the desert's memory,
-Poets chanting verses no army could ever silence or bury,
-Falcons circling high above the dunes at break of day,
-And a football pitch that turned a giant's certainty to clay.
+[Maqta' 1]
+Suyuf marfu'a 'aliyan fi saff qadim ka-dhakirat al-sahra',
+Shu'ara' yunshidun abyatan la yastati' jaysh an yuskitaha aw yadfinaha,
+Suqur tuharriru fawqa al-kuthban 'inda al-fajr,
+Wa mal'ab kura hawwala yaqin 'imlaq ila tin.
 
-[Pre-Chorus]
-From the Najdi drum line to the roaring stadium crowd,
-One nation, ancient and modern, singing out loud.
+[Qabla al-Jawqa]
+Min saff al-tabl al-Najdi ila jumhur al-mal'ab al-hadir,
+Umma wahida, qadima wa haditha, tughanni bi-sawt 'ali.
 
-[Chorus] (viral hook, Arabic + English)
-Ya Saudia! Ya Saudia al-habiba!
-(O Saudi! O beloved Saudi!)
-Yalla Saudia, ya Saudia al-habiba!
-(Come on Saudi, O beloved Saudi!)
-
-[Verse 2]
-They said the underdogs don't topple giants built that tall,
-Then eleven green shirts proved the whole world wrong with one football,
-The ardah drums that celebrated victories long before,
-Beat the same rhythm when we walked off as the ones who scored.
-
-[Chorus]
+[al-Jawqa] — the hook: "Ya Saudia al-habiba" means "O beloved Saudi"
 Ya Saudia! Ya Saudia al-habiba!
 Yalla Saudia, ya Saudia al-habiba!
+Ya Saudia! Ya Saudia al-habiba!
 
-[Bridge]
-Swords don't fall in the ardah, they rise as one,
-Every drumbeat says the celebration's just begun —
-Desert and falcon, poem and blade,
-This is the pride that centuries have made.
+[Maqta' 2]
+Qalu inna al-mustad'afin la yusqitun 'amaliqa buniyat bi-hadhihi al-tul,
+Thumma ahad 'ashar qamisan akhdar athbatu khata' al-'alam kullihi bi-kurat wahida,
+Tubul al-ardah allati ihtafalat bi-al-intisarat mundhu zaman ba'id,
+Daqqat nafs al-iqa' 'indama ghadarna ka-man sajjalu al-hadaf.
 
-[Final Chorus — full stadium]
+[al-Jawqa]
+Ya Saudia! Ya Saudia al-habiba!
+Yalla Saudia, ya Saudia al-habiba!
+
+[al-Jisr]
+Al-suyuf la tasqutu fi al-ardah, tartafi'u ka-wahid,
+Kullu daqqat tabl taqulu inna al-ihtifal bada' tawwan —
+Sahra' wa saqr, qasida wa nasl,
+Hadha huwa al-fakhr alladhi sana'athu al-qurun.
+
+[al-Jawqa al-Akhira]
 Ya Saudia! Ya Saudia al-habiba!
 Yalla Saudia, ya Saudia al-habiba!
 Ya Saudia! Ya Saudia!
 
-[Outro — chant tag]
+[al-Khatima]
 Saudia! Saudia! Ya habiba!
 
 CULTURAL NOTE:
