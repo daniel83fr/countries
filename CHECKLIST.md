@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Anguilla (start of CONCACAF).
+the list in the order below — next up: Belize.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -121,11 +121,11 @@ new entries follow the stricter rule.
 
 ## CONCACAF (35)
 
-- [ ] Anguilla
-- [ ] Antigua and Barbuda
-- [ ] Aruba
-- [ ] Bahamas
-- [ ] Barbados
+- [x] Anguilla
+- [x] Antigua and Barbuda
+- [x] Aruba
+- [x] Bahamas
+- [x] Barbados
 - [ ] Belize
 - [ ] Bermuda
 - [ ] British Virgin Islands
