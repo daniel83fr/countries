@@ -2,13 +2,17 @@
 
 Exhaustive list of all FIFA member countries/territories, grouped by confederation.
 
+Each checked country has a completed song brief (title, style tag, full
+lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
+the list in the order below — next up: Brunei Darussalam.
+
 ## AFC (46)
 
-- [ ] Afghanistan
-- [ ] Australia
-- [ ] Bahrain
-- [ ] Bangladesh
-- [ ] Bhutan
+- [x] Afghanistan
+- [x] Australia
+- [x] Bahrain
+- [x] Bangladesh
+- [x] Bhutan
 - [ ] Brunei Darussalam
 - [ ] Cambodia
 - [ ] China PR
