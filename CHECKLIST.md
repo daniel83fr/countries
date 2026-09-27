@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Hong Kong.
+the list in the order below — next up: Japan.
 
 ## AFC (46)
 
@@ -18,11 +18,11 @@ the list in the order below — next up: Hong Kong.
 - [x] China PR
 - [x] Chinese Taipei
 - [x] Guam
-- [ ] Hong Kong
-- [ ] India
-- [ ] Indonesia
-- [ ] Iran
-- [ ] Iraq
+- [x] Hong Kong
+- [x] India
+- [x] Indonesia
+- [x] Iran
+- [x] Iraq
 - [ ] Japan
 - [ ] Jordan
 - [ ] Kuwait
