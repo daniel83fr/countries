@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: South Korea.
+the list in the order below — next up: Timor-Leste.
 
 ## AFC (46)
 
@@ -43,11 +43,11 @@ the list in the order below — next up: South Korea.
 - [x] Qatar
 - [x] Saudi Arabia
 - [x] Singapore
-- [ ] South Korea
-- [ ] Sri Lanka
-- [ ] Syria
-- [ ] Tajikistan
-- [ ] Thailand
+- [x] South Korea
+- [x] Sri Lanka
+- [x] Syria
+- [x] Tajikistan
+- [x] Thailand
 - [ ] Timor-Leste
 - [ ] Turkmenistan
 - [ ] United Arab Emirates
