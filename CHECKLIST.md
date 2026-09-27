@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Algeria (start of CAF).
+the list in the order below — next up: Burundi.
 
 ## AFC (46) — complete
 
@@ -57,11 +57,11 @@ the list in the order below — next up: Algeria (start of CAF).
 
 ## CAF (54)
 
-- [ ] Algeria
-- [ ] Angola
-- [ ] Benin
-- [ ] Botswana
-- [ ] Burkina Faso
+- [x] Algeria
+- [x] Angola
+- [x] Benin
+- [x] Botswana
+- [x] Burkina Faso
 - [ ] Burundi
 - [ ] Cameroon
 - [ ] Cape Verde
