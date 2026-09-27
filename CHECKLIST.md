@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Belize.
+the list in the order below — next up: Costa Rica.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -126,11 +126,11 @@ new entries follow the stricter rule.
 - [x] Aruba
 - [x] Bahamas
 - [x] Barbados
-- [ ] Belize
-- [ ] Bermuda
-- [ ] British Virgin Islands
-- [ ] Canada
-- [ ] Cayman Islands
+- [x] Belize
+- [x] Bermuda
+- [x] British Virgin Islands
+- [x] Canada
+- [x] Cayman Islands
 - [ ] Costa Rica
 - [ ] Cuba
 - [ ] Curacao
