@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: South Africa.
+the list in the order below — next up: Tunisia (last CAF country).
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -109,11 +109,11 @@ new entries follow the stricter rule.
 - [x] Seychelles
 - [x] Sierra Leone
 - [x] Somalia
-- [ ] South Africa
-- [ ] South Sudan
-- [ ] Sudan
-- [ ] Tanzania
-- [ ] Togo
+- [x] South Africa
+- [x] South Sudan
+- [x] Sudan
+- [x] Tanzania
+- [x] Togo
 - [ ] Tunisia
 - [ ] Uganda
 - [ ] Zambia
