@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Equatorial Guinea.
+the list in the order below — next up: Gambia.
 
 ## AFC (46) — complete
 
@@ -72,11 +72,11 @@ the list in the order below — next up: Equatorial Guinea.
 - [x] DR Congo
 - [x] Djibouti
 - [x] Egypt
-- [ ] Equatorial Guinea
-- [ ] Eritrea
-- [ ] Eswatini
-- [ ] Ethiopia
-- [ ] Gabon
+- [x] Equatorial Guinea
+- [x] Eritrea
+- [x] Eswatini
+- [x] Ethiopia
+- [x] Gabon
 - [ ] Gambia
 - [ ] Ghana
 - [ ] Guinea
