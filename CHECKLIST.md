@@ -298,11 +298,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Maldives
 - [x] Mongolia
 - [x] Myanmar
-- [ ] Nepal
-- [ ] North Korea
-- [ ] Oman
-- [ ] Pakistan
-- [ ] Palestine
+- [x] Nepal
+- [x] North Korea
+- [x] Oman
+- [x] Pakistan
+- [x] Palestine
 - [ ] Philippines
 - [ ] Qatar
 - [ ] Republic of Ireland
