@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Panama.
+the list in the order below — next up: Suriname.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -146,11 +146,11 @@ new entries follow the stricter rule.
 - [x] Mexico
 - [x] Montserrat
 - [x] Nicaragua
-- [ ] Panama
-- [ ] Puerto Rico
-- [ ] St Kitts and Nevis
-- [ ] St Lucia
-- [ ] St Vincent and the Grenadines
+- [x] Panama
+- [x] Puerto Rico
+- [x] St Kitts and Nevis
+- [x] St Lucia
+- [x] St Vincent and the Grenadines
 - [ ] Suriname
 - [ ] Trinidad and Tobago
 - [ ] Turks and Caicos Islands
