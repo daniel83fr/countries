@@ -241,3 +241,81 @@ new entries follow the stricter rule.
 - [x] Turkey
 - [x] Ukraine
 - [x] Wales
+
+---
+
+## LANGUAGE RETROFIT PASS
+
+An audit found 67 songs (mostly the original AFC/CAF batch, plus a few
+scattered later entries) were written English-dominant with just native
+phrases sprinkled in, rather than full official-language lyrics. This
+section tracks converting each to official-language-only lyrics (max
+1-2 sentences of English), per user request.
+
+- [ ] Afghanistan
+- [ ] Algeria
+- [ ] American Samoa
+- [ ] Angola
+- [ ] Bahrain
+- [ ] Bangladesh
+- [ ] Benin
+- [ ] Bhutan
+- [ ] Brunei Darussalam
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cambodia
+- [ ] Cameroon
+- [ ] Cape Verde
+- [ ] Central African Republic
+- [ ] Chad
+- [ ] China PR
+- [ ] Chinese Taipei
+- [ ] Comoros
+- [ ] Congo
+- [ ] Djibouti
+- [ ] DR Congo
+- [ ] Egypt
+- [ ] Equatorial Guinea
+- [ ] Eritrea
+- [ ] Ethiopia
+- [ ] Gabon
+- [ ] Guinea-Bissau
+- [ ] Guinea
+- [ ] Hong Kong
+- [ ] India
+- [ ] Indonesia
+- [ ] Iran
+- [ ] Iraq
+- [ ] Ivory Coast
+- [ ] Japan
+- [ ] Jordan
+- [ ] Kuwait
+- [ ] Kyrgyzstan
+- [ ] Laos
+- [ ] Lebanon
+- [ ] Macau
+- [ ] Malaysia
+- [ ] Maldives
+- [ ] Mongolia
+- [ ] Myanmar
+- [ ] Nepal
+- [ ] North Korea
+- [ ] Oman
+- [ ] Pakistan
+- [ ] Palestine
+- [ ] Philippines
+- [ ] Qatar
+- [ ] Republic of Ireland
+- [ ] Saudi Arabia
+- [ ] Singapore
+- [ ] South Korea
+- [ ] Sri Lanka
+- [ ] Syria
+- [ ] Tajikistan
+- [ ] Thailand
+- [ ] Timor-Leste
+- [ ] Turkmenistan
+- [ ] United Arab Emirates
+- [ ] Uzbekistan
+- [ ] Vietnam
+- [ ] Yemen
