@@ -283,11 +283,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Guinea
 - [x] Hong Kong
 - [x] India
-- [ ] Indonesia
-- [ ] Iran
-- [ ] Iraq
-- [ ] Ivory Coast
-- [ ] Japan
+- [x] Indonesia
+- [x] Iran
+- [x] Iraq
+- [x] Ivory Coast
+- [x] Japan
 - [ ] Jordan
 - [ ] Kuwait
 - [ ] Kyrgyzstan

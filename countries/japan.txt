@@ -9,55 +9,54 @@ Taiko-drum stadium anthem. Massive taiko drum ensemble driving the pulse
 shakuhachi flute breath textures, opening into a synth-and-guitar arena
 chorus with massed crowd chant vocals.
 
-LYRICS:
+LYRICS (Japanese, romanized):
 
-[Intro]
+[Intoro]
 (A single taiko strike, then a rolling festival drum pattern builds)
 Nippon... ganbare...
 
-[Verse 1]
-Cherry blossoms fall like confetti on the training ground,
-Fuji watches quiet while the whole stadium shakes with sound,
-Grandfather's festival drum still beats the way it always did,
-Every child in every city learns the rhythm as a kid.
+[Ichi Bantame]
+Sakura ga renshuu-jou ni kanfetti no you ni chiru,
+Fuji wa shizuka ni mimamoru, sutajiamu-juu ga naru,
+Ojiichan no matsuri-daiko wa ima mo onaji you ni naru,
+Dono machi no kodomo mo kono rizumu wo osowaru.
 
-[Pre-Chorus]
-From the shrine gate's red to the stadium's blinding light,
-One nation, one heartbeat, drumming through the night.
+[Pre-Korasu]
+Torii no aka kara sutajiamu no mabushii hikari made,
+Hitotsu no kuni, hitotsu no kodou, yoru wo tooshite taiko wo tataku.
 
-[Chorus] (viral hook, Japanese + English — echoes a real, widely used cheer)
-Nippon, ganbare! Nippon, ganbare!
-(Japan, do your best! Japan, do your best!)
-Minna de, ganbare Nippon!
-(Everyone together — go, Japan!)
-
-[Verse 2]
-The samurai learned patience is the sharpest kind of blade,
-Discipline before the glory, that's the promise that we made,
-When the whistle blows the taiko answers with a roar,
-This is a small island that has always played for more.
-
-[Chorus]
+[Korasu] — the hook: "Ganbare Nippon" is a real, iconic cheer meaning "do your best, Japan"
 Nippon, ganbare! Nippon, ganbare!
 Minna de, ganbare Nippon!
+Nippon, ganbare! Nippon, ganbare!
 
-[Bridge]
-Falling blossoms teach us beauty doesn't have to stay,
-Every season passes but the spirit finds its way —
-Drum by drum, breath by breath, we rise as one,
-This is the discipline of the rising sun.
+[Ni Bantame]
+Samurai wa nintai koso saikou no yaiba da to manabu,
+Eikou no mae ni kiritsu, sore ga wareware no chikai,
+Fue ga naru toki, taiko ga hoeru you ni kotaeru,
+Kore wa itsumo motto wo motomete kita chiisana shima.
 
-[Final Chorus — full stadium]
+[Korasu]
+Nippon, ganbare! Nippon, ganbare!
+Minna de, ganbare Nippon!
+
+[Burijji]
+Chiru sakura wa utsukushisa wa nagaku tomaranai to oshieru,
+Kisetsu wa sugiru keredo tamashii wa michi wo mitsukeru —
+Taiko de taiko, iki de iki, watashitachi wa hitotsu ni naru,
+Kore wa asahi no kiritsu, kore wa Nippon no chikara.
+
+[Saigo no Korasu]
 Nippon, ganbare! Nippon, ganbare!
 Minna de, ganbare Nippon!
 Ganbare! Ganbare!
 
-[Outro — chant tag]
+[Autoro]
 Nippon! Nippon! Ganbare!
 
 CULTURAL NOTE:
 Built around "Ganbare Nippon," a genuine, already-iconic cheer heard at
 Japanese sporting events worldwide, alongside cherry blossoms, Mount Fuji,
-and taiko festival drumming — all deeply real, not decorative. Have a
-native Japanese speaker confirm phrasing and natural cadence before
-recording.
+and taiko festival drumming — all deeply real, not decorative. Written in
+romanized Japanese; have a native Japanese speaker convert to kanji/kana
+and confirm phrasing and natural cadence before recording.

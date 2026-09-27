@@ -9,50 +9,49 @@ maqam line, khishba/dumbek hand-drum rhythm underneath, joined by a Kurdish
 daf pulse in the bridge to honor both official languages, building into a
 full-band arena chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Arabic verse, Kurdish verse — Iraq's two official languages):
 
-[Intro]
+[Muqaddima]
 (Oud maqam figure over a slow hand-drum heartbeat)
 Ya Iraq... ya habibi...
 
-[Verse 1]
-Between two rivers older than the words we use to pray,
-Tigris and Euphrates still keep carrying us today,
-Palm trees stood through every storm that tried to bring us down,
-Every neighborhood still plays the ball through every town.
+[Maqta' 1 — Arabic, transliterated]
+Bayna nahrayn aqdam min al-kalimat allati nastakhdimuha lil-du'a',
+Dijla wa al-Furat la yazalan yahmilanana hatta al-yawm,
+Nakhil sammada amam kulli 'asifa hawalat an tusqitana,
+Kullu hayy la yazalu yal'abu al-kura fi kulli madina.
 
-[Pre-Chorus]
-From Baghdad's bridges to the Kurdish mountain air,
-One country, many voices, but one shirt that we all wear.
+[Qabla al-Jawqa]
+Min jusur Baghdad ila hawa' al-jibal al-Kurdiya,
+Baladun wahid, aswat kathira, walakin qamisun wahid nartadihi jami'an.
 
-[Chorus] (viral hook, Arabic + English)
-Ya Iraq! Ya Iraq al-habib!
-(O Iraq! O beloved Iraq!)
-Nasr al-Iraq, ya Iraq al-habib!
-(Victory for Iraq, O beloved Iraq!)
-
-[Verse 2]
-They said this cradle of the world had nothing left to give,
-Then eleven men in blue reminded us how we still live,
-The whole country stopped — Arab, Kurd, and everyone between —
-For ninety minutes we were the most united scene.
-
-[Chorus]
+[al-Jawqa] — the hook: "Ya Iraq al-habib" means "O beloved Iraq"
 Ya Iraq! Ya Iraq al-habib!
 Nasr al-Iraq, ya Iraq al-habib!
+Ya Iraq! Ya Iraq al-habib!
 
-[Bridge]
-Two rivers flowing into one same sea,
-Two languages, one song, one victory —
-The palm tree bends but never breaks in the storm,
-This is the shape that Iraqi pride can form.
+[Kurdish Verse 2, transliterated — Kurmanji/Sorani register]
+Gotin ev jîngeha cîhanê tiştek nemaye ku bide,
+Paşê yanzdeh mêrên bi kirasê şîn bîr xistin em çawa hê dijîn,
+Tevahiya welat sekinî — Ereb, Kurd û her kes di navberê de —
+Bo nod deqîqe em bûn dîmena herî yekgirtî.
 
-[Final Chorus — full stadium]
+[al-Jawqa]
+Ya Iraq! Ya Iraq al-habib!
+Nasr al-Iraq, ya Iraq al-habib!
+
+[al-Jisr]
+Nahrayn yajriyan ila nafs al-bahr al-wahid,
+Lughatan, ughniya wahida, intisar wahid —
+Al-nakhla tanhani walakin la tankasir fi al-'asifa abadan,
+Hadha huwa shaklu al-fakhr al-'Iraqi alladhi yumkin an yatakawwan.
+
+[al-Jawqa al-Akhira]
 Ya Iraq! Ya Iraq al-habib!
 Nasr al-Iraq, ya Iraq al-habib!
 Ya Iraq! Ya Iraq!
 
-[Outro — chant tag]
+[al-Khatima]
 Iraq! Iraq! Ya habib!
 
 CULTURAL NOTE:
@@ -60,5 +59,7 @@ Grounded in the Tigris and Euphrates rivers that define Mesopotamia, and
 the real, widely remembered story of Iraq's 2007 AFC Asian Cup win, which
 briefly united a country divided along sectarian lines around its football
 team. Weaves in a Kurdish daf pulse to acknowledge Iraq's two official
-languages. Have native Arabic and Kurdish speakers review phrasing before
-recording.
+languages, with one full verse in each. The Kurdish verse is a low-
+confidence best-effort draft; have native Arabic and, especially, Kurdish
+speakers thoroughly review and likely rewrite their respective sections
+before recording.

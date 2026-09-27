@@ -9,50 +9,49 @@ daf frame-drum pulse (the same drum used in Zurkhaneh strength-house
 rituals), santur shimmer in the pre-chorus, opening into a full-band arena
 chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Persian, romanized):
 
-[Intro]
+[Moghadameh]
 (Daf frame drum builds a slow ceremonial pulse)
 Iran... Iran-e man...
 
-[Verse 1]
-Under Persepolis' broken columns the wind still tells its tale,
-In the Zurkhaneh the strong men still swing the ancient scale,
-Poets wrote our history before a single flag was flown,
-Every verse of Ferdowsi still lives in every home.
+[Band-e Avval]
+Zir-e sotoon-haye shekaste-ye Takht-e Jamshid, bad hanuz dastan migoyad,
+Dar Zurkhaneh mardan-e ghavi hanuz mile-haye kohan ra micharkhanand,
+Sha'eran tarikh-e ma ra pish az yek parcham neveshtand,
+Har beyt-e Ferdowsi hanuz dar har khaneh zende ast.
 
-[Pre-Chorus]
-From the Alborz mountain shadow to the Gulf's warm shore,
-This is a people who have carried pride for years before.
+[Pish az Kor]
+Az sayeh-ye kuh-haye Alborz ta sahel-e garm-e khalij,
+In mardomi hastand ke saal-ha ghorur ra hamel budand.
 
-[Chorus] (viral hook, Persian + English)
-Iran, Iran! Pirooz bad Iran!
-(Iran, Iran! Victorious be Iran!)
-Iran-e jan, pirooz bad Iran!
-(My dear Iran, victorious be Iran!)
-
-[Verse 2]
-The strongman spins his heavy club to a rhythm three thousand years old,
-Every match we play, we're carrying a story that's already told,
-When the whole stand rises and the anthem starts to swell,
-We are the empire that outlived every wall that ever fell.
-
-[Chorus]
+[Kor] — the hook: "pirooz bad Iran" means "victorious be Iran"
 Iran, Iran! Pirooz bad Iran!
 Iran-e jan, pirooz bad Iran!
+Iran, Iran! Pirooz bad Iran!
 
-[Bridge]
-Stone remembers what the years try to erase,
-We are still standing in the very same place —
-Poetry and iron, patience and flame,
-Every generation carries the same name.
+[Band-e Dovvom]
+Pahlevan mile-ye sangin ra ba ritmi se hezar sale mecharkhanad,
+Har mosabeghe-i ke bazi mikonim, dastani ra hamel hastim ke qablan gofte shode,
+Vaghti tamam-e jayegah bar mikhizad va soroud shoru be oj gereftan mikonad,
+Ma hamun emperatori hastim ke az har divari ke oftad, biroon amad.
 
-[Final Chorus — full stadium]
+[Kor]
+Iran, Iran! Pirooz bad Iran!
+Iran-e jan, pirooz bad Iran!
+
+[Pol]
+Sang be yad miavarad anche saal-ha mikoshand pak konand,
+Ma hanuz dar hamun ja istadeh-im —
+She'r va ahan, sabr va shole,
+Har nasl hamun nam ra hamel ast.
+
+[Kor-e Akhar]
 Iran, Iran! Pirooz bad Iran!
 Iran-e jan, pirooz bad Iran!
 Pirooz bad! Pirooz bad!
 
-[Outro — chant tag]
+[Payan]
 Iran, Iran, Iran!
 
 CULTURAL NOTE:
@@ -60,5 +59,6 @@ Draws on Persepolis, the daf drum and Zurkhaneh ("house of strength") — an
 ancient Persian martial and athletic tradition still practiced today — and
 the deep national reverence for classical poets like Ferdowsi. "Pirooz"
 (victorious) is a real, commonly used Persian word, making the chorus land
-as genuinely Persian rather than generic. Have a native Farsi speaker
-review verse phrasing and meter before recording.
+as genuinely Persian rather than generic. Written in romanized Farsi;
+have a native Farsi speaker convert to Persian script and review verse
+phrasing and meter before recording.
