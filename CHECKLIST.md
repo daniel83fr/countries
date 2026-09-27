@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Myanmar.
+the list in the order below — next up: Palestine.
 
 ## AFC (46)
 
@@ -33,11 +33,11 @@ the list in the order below — next up: Myanmar.
 - [x] Malaysia
 - [x] Maldives
 - [x] Mongolia
-- [ ] Myanmar
-- [ ] Nepal
-- [ ] North Korea
-- [ ] Oman
-- [ ] Pakistan
+- [x] Myanmar
+- [x] Nepal
+- [x] North Korea
+- [x] Oman
+- [x] Pakistan
 - [ ] Palestine
 - [ ] Philippines
 - [ ] Qatar
