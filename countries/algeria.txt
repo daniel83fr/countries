@@ -9,55 +9,56 @@ raï groove (Oran's own musical export to the world), Kabyle mandole
 strings woven in for the Tamazight verses, opening into a full-band arena
 chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Arabic, transliterated, with a Tamazight refrain line):
 
-[Intro]
+[Muqaddima]
 (Gasba flute wail over a rolling derbake pattern)
 Ya bladi... ya bladi...
 
-[Verse 1]
-Sahara dunes roll gold beyond where any road can reach,
-The Mediterranean folds white foam on Oran's crowded beach,
-A raï singer's voice still carries stories no border could contain,
-Every desert star has watched this same team rise again.
+[Maqta' 1]
+Kuthban al-sahra' tamtaddu dhahabiyatan ab'ad min ay tariq,
+Al-bahr al-mutawassit yatawwiju shati' Wahran bi-zabadin raqiq,
+Sawtu al-ra'i yahmilu qisasan la yaqdiru hadd 'ala ihtiwa'iha,
+Wa kullu najmatin fi al-sahra' ra'at hadhihi al-firqata tanhad marratan ukhra.
 
-[Pre-Chorus]
-From the Aurès mountain villages to Algiers' white-walled shore,
-One nation, Arab and Amazigh, carrying so much more.
+[Qabla al-Jawqa]
+Min qura al-Awras al-jabaliya ila shati' al-Jaza'ir al-abyad,
+Ummatun wahidatun, 'Arabiya wa Amazighiya, tahmilu ma huwa akthar bikathir.
 
-[Chorus] (viral hook, Arabic + English)
-Ya bladi! Ya bladi al-habiba!
-(O my country! O beloved country!)
-Yalla, ya bladi al-habiba!
-(Come on, O beloved country!)
-
-[Verse 2]
-The desert fox runs quiet till the moment that he strikes,
-Green and white against the sand under the stadium lights,
-Doesn't matter what the decades of hardship left behind,
-We built a pride as vast as any desert you could find.
-
-[Chorus]
+[al-Jawqa] — the hook: "Ya bladi" means "O my country"; "Tamurt-iw" is the Tamazight equivalent
 Ya bladi! Ya bladi al-habiba!
 Yalla, ya bladi al-habiba!
+Tamurt-iw! Ya bladi al-habiba!
 
-[Bridge]
-Two tongues, one country, singing the same refrain,
-Sand and sea and mountain, joy after the pain —
-Gasba flute and mandole, hand in hand,
-This is the anthem of the desert fox's land.
+[Maqta' 2]
+Al-tha'lab al-sahrawi yajri bi-hudu'in hatta lahzat al-inqidad,
+Akhdar wa abyad didda al-raml taht adwa' al-mal'ab,
+La yuhimmu kam min 'uqud al-mashaqqa taraknaha khalfana,
+Bananaa fakhran wasi'an ka-ay sahra' yumkinuka an tajidaha.
 
-[Final Chorus — full stadium]
+[al-Jawqa]
+Ya bladi! Ya bladi al-habiba!
+Yalla, ya bladi al-habiba!
+
+[al-Jisr]
+Lughatan, ummatun wahidatun, tughanniyan nafs al-nagham,
+Raml wa bahr wa jabal, farah ba'da al-alam —
+Gasba wa mandole, yadan bi-yad,
+Hadhihi ughniyatu ard al-tha'lab al-sahrawi.
+
+[al-Jawqa al-Akhira]
 Ya bladi! Ya bladi al-habiba!
 Yalla, ya bladi al-habiba!
 Ya bladi! Ya bladi!
 
-[Outro — chant tag]
-Bladi! Bladi! Al-Jazair!
+[al-Khatima]
+Bladi! Bladi! Al-Jaza'ir!
 
 CULTURAL NOTE:
 Built on raï music (Algeria's globally famous musical export from Oran),
 the Sahara's scale, and Algeria's dual Arabic/Tamazight heritage, woven
 together rather than choosing one. "Les Fennecs" (the Desert Foxes) is the
 national team's real nickname, referenced through the fox imagery. Have
-native Arabic and Tamazight speakers review phrasing before recording.
+native Arabic and Tamazight speakers review phrasing and grammar before
+recording — this transliterated draft is a starting point, not
+production-ready Arabic script.

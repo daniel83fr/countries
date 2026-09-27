@@ -252,12 +252,12 @@ phrases sprinkled in, rather than full official-language lyrics. This
 section tracks converting each to official-language-only lyrics (max
 1-2 sentences of English), per user request.
 
-- [ ] Afghanistan
-- [ ] Algeria
-- [ ] American Samoa
-- [ ] Angola
-- [ ] Bahrain
-- [ ] Bangladesh
+- [x] Afghanistan
+- [x] Algeria
+- [x] American Samoa
+- [x] Angola
+- [x] Bahrain
+- [x] Bangladesh
 - [ ] Benin
 - [ ] Bhutan
 - [ ] Brunei Darussalam
