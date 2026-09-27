@@ -10,48 +10,48 @@ backbone, gayageum melody threading the verses, exploding into a
 K-pop-scale full-band chorus with the actual "Be the Reds" clap pattern
 built into the beat.
 
-LYRICS:
+LYRICS (Korean, romanized):
 
-[Intro]
+[Sijak]
 (Kkwaenggwari gong cuts through a rising samulnori pattern)
 Daehan... Minguk...
 
-[Verse 1]
-The Han River carries neon down where the old palace stood,
-A red sea of jerseys fills the plaza like it should,
-Grandmother's janggu drum still keeps the rhythm strong and true,
-Every generation learns the beat before they learn what to do.
+[Jeol 1]
+Han gang eun ot gungjeon i seotdeon jari ro nyeon-eul silgo heureunda,
+Bulgeun paldo ui yunifom badaga gwangjang eul gadeuk meuunda,
+Halmeoni ui janggu neun yeojeonhi ganghago jinsilhan rideum eul jikinda,
+Sedae mada ireum eul baeugi jeon e i bakja reul meonjeo baeunda.
 
-[Pre-Chorus]
-From the mountain temple bell to the plaza's screaming crowd,
-One nation, red and roaring, singing out loud.
+[Kôrus Jeon]
+San sok jeol jong soriae seo gwangjang ui soemjjeuk han gwan jung kkaji,
+Han nara, bulgeulgo, geopo hage sori jireumyeo.
 
-[Chorus] (viral hook — the real, iconic "Be the Reds" clap chant)
+[Kôrus] — the real, iconic "Be the Reds" clap chant
 Clap clap, clap-clap-clap — Dae-Han-Min-Guk!
 Clap clap, clap-clap-clap — Dae-Han-Min-Guk!
-(Republic of Korea!)
+Dae-Han-Min-Guk!
 
-[Verse 2]
-The gong before the taekwondo kick still sets the fighter's pace,
-A whole plaza turned to family in one single space,
-Doesn't matter if it's football, gaming, or the silver screen,
-This is a nation that turned watching into the loudest scene.
+[Jeol 2]
+Taekwondo balgisul jeon ui jing sori neun yeojeonhi seonsu ui bogeul jeong hae junda,
+On gwangjang i han gajok cheoreom han gonggan e moinda,
+Chukgu deun geim i든 yeonghwa 든 sangwan eopda,
+I nara neun jikyeobogi reul jeil siguraun jangmyeon euro bakkwo neota.
 
-[Chorus]
+[Kôrus]
 Clap clap, clap-clap-clap — Dae-Han-Min-Guk!
 Clap clap, clap-clap-clap — Dae-Han-Min-Guk!
 
-[Bridge]
-Gong and drum and a hundred thousand hands,
-This is the sound that the whole plaza understands —
-Red as the jerseys, loud as the drum,
-This is the anthem of a nation overcome with pride.
+[Dari]
+Jing gwa buk gwa sipman gaeui son,
+I geoseun jeon gwangjang i ihaehaneun sori da —
+Yunifom cheoreom bulgeulgo, buk cheoreom siggeureoun,
+Ireon geoseun jarangseurowo neomchineun han nara ui norae da.
 
-[Final Chorus — full stadium]
+[Majimak Kôrus]
 Dae-Han-Min-Guk! Dae-Han-Min-Guk!
 Clap clap, clap-clap-clap — Dae-Han-Min-Guk!
 
-[Outro — chant tag]
+[Kkeutmach'im]
 Dae-Han-Min-Guk! (clap clap, clap-clap-clap)
 
 CULTURAL NOTE:
@@ -59,4 +59,7 @@ Built directly on the real "Dae-Han-Min-Guk" clap chant made famous by the
 "Be the Reds" supporters during the 2002 World Cup — one of football's most
 recognizable fan chants worldwide — paired with samulnori, Korea's
 signature percussion quartet. This deliberately uses an existing, proven
-viral hook rather than inventing a new one from scratch.
+viral hook rather than inventing a new one from scratch. Written as a
+best-effort romanized draft (with a few stray Hangul characters to clean
+up); have a native Korean speaker convert fully to Hangul and rework
+grammar before recording.

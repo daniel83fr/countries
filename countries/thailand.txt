@@ -9,50 +9,49 @@ klong khaek drums that play live during every Muay Thai fight) forms the
 rhythmic and melodic backbone, ranat xylophone runs in the verses,
 building into a full-band arena chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Thai, romanized):
 
-[Intro]
+[Kham Nam]
 (Pi chawa reed wail over a building klong khaek drum pattern)
 Muang Thai... chai yo...
 
-[Verse 1]
-Before the fighter throws a single strike, he bows and dances slow,
-Wai kru ram muay honors every teacher he will ever know,
-Golden temple spires catch the sunset over Chao Phraya's tide,
-Every ring, every stadium carries that same quiet pride.
+[Ton Thi 1]
+Kon nak muay ja chok kem raek, khao wai khru lae ram cha cha,
+Wai khru ram muay pen kearati kae khru thuk khon thi khao ru jak,
+Yod jedi si thong rap phra athit tok nai sai nam Chao Phraya,
+Thuk weti, thuk sanam kila hop hem ngiap sa-ngop diao kan.
 
-[Pre-Chorus]
-From the temple bell at evening to the roaring boxing hall,
-One nation moves together when they hear the sarama call.
+[Kon Thueng Hong]
+Tae siang rakhang wat yam yen theung hong muay thi siang dang,
+Chat diao khlue wai duai kan meua dai yin siang sarama riak.
 
-[Chorus] (viral hook, Thai + English — a real, widely used cheer)
-Chai yo! Chai yo, Muang Thai!
-(Hooray! Hooray, Thailand!)
-Suu suu, chai yo, Muang Thai!
-(Fight on, hooray, Thailand!)
-
-[Verse 2]
-The music speeds up as the fighters trade their final round,
-The whole arena rising to the same sarama sound,
-Grace before the power, ritual before the strike,
-This is a nation that turned discipline into delight.
-
-[Chorus]
+[Hong] — the hook: "chai yo" is a real, widely used Thai cheer of celebration; "suu suu" means "fight on"
 Chai yo! Chai yo, Muang Thai!
 Suu suu, chai yo, Muang Thai!
+Chai yo! Chai yo, Muang Thai!
 
-[Bridge]
-Bow before you battle, that's the oldest rule,
-Respect is still the sharpest tool —
-Reed and drum and a dancer's bow,
-This is the rhythm only Thailand knows.
+[Ton Thi 2]
+Dontri reng khuen meua nak muay plian yok sut thai,
+Thang sanam luk khuen tam siang sarama diao kan,
+Kwam ngam kon phalang, phithi kon kem,
+Ni khu chat thi plian wi-nai hai pen kwam suk.
 
-[Final Chorus — full crowd]
+[Hong]
+Chai yo! Chai yo, Muang Thai!
+Suu suu, chai yo, Muang Thai!
+
+[Saphan]
+Wai kon rop, ni khu kot kao gae thi sut,
+Kwam kharop yang pen kruang mue thi kom thi sut —
+Pi lae klong lae kan wai khong nak ram,
+Ni khu jangwa thi mi tae Muang Thai thao nan thi ru.
+
+[Hong Sut Thai]
 Chai yo! Chai yo, Muang Thai!
 Suu suu, chai yo, Muang Thai!
 Chai yo! Chai yo!
 
-[Outro — chant tag]
+[Chop]
 Chai yo! Chai yo! Muang Thai!
 
 CULTURAL NOTE:
@@ -60,4 +59,5 @@ Built on Muay Thai's real wai kru ram muay ritual (the respectful dance
 every fighter performs before a bout) and the sarama live music that
 actually accompanies every match, turning a genuine sporting ritual into
 the song's structure. "Chai yo" is a real, commonly used Thai cheer of
-celebration. Have a native Thai speaker review phrasing before recording.
+celebration. Written in romanized Thai; have a native Thai speaker
+convert to Thai script and review phrasing before recording.

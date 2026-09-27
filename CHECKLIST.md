@@ -308,11 +308,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Republic of Ireland
 - [x] Saudi Arabia
 - [x] Singapore
-- [ ] South Korea
-- [ ] Sri Lanka
-- [ ] Syria
-- [ ] Tajikistan
-- [ ] Thailand
+- [x] South Korea
+- [x] Sri Lanka
+- [x] Syria
+- [x] Tajikistan
+- [x] Thailand
 - [ ] Timor-Leste
 - [ ] Turkmenistan
 - [ ] United Arab Emirates
