@@ -4,9 +4,9 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Timor-Leste.
+the list in the order below — next up: Algeria (start of CAF).
 
-## AFC (46)
+## AFC (46) — complete
 
 - [x] Afghanistan
 - [x] Australia
@@ -48,12 +48,12 @@ the list in the order below — next up: Timor-Leste.
 - [x] Syria
 - [x] Tajikistan
 - [x] Thailand
-- [ ] Timor-Leste
-- [ ] Turkmenistan
-- [ ] United Arab Emirates
-- [ ] Uzbekistan
-- [ ] Vietnam
-- [ ] Yemen
+- [x] Timor-Leste
+- [x] Turkmenistan
+- [x] United Arab Emirates
+- [x] Uzbekistan
+- [x] Vietnam
+- [x] Yemen
 
 ## CAF (54)
 
