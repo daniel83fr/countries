@@ -4,7 +4,14 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Kenya.
+the list in the order below — next up: Malawi.
+
+FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
+country's official language(s), with at most 1-2 sentences of English
+(e.g. a chorus gloss) — not English-dominant verses with a few native
+phrases, as the first ~65 entries (Afghanistan through Ivory Coast) were
+written. Those earlier entries were kept as-is per user decision; only
+new entries follow the stricter rule.
 
 ## AFC (46) — complete
 
@@ -82,11 +89,11 @@ the list in the order below — next up: Kenya.
 - [x] Guinea
 - [x] Guinea-Bissau
 - [x] Ivory Coast
-- [ ] Kenya
-- [ ] Lesotho
-- [ ] Liberia
-- [ ] Libya
-- [ ] Madagascar
+- [x] Kenya
+- [x] Lesotho
+- [x] Liberia
+- [x] Libya
+- [x] Madagascar
 - [ ] Malawi
 - [ ] Mali
 - [ ] Mauritania
