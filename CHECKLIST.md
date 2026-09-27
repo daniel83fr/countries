@@ -263,11 +263,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Brunei Darussalam
 - [x] Burkina Faso
 - [x] Burundi
-- [ ] Cambodia
-- [ ] Cameroon
-- [ ] Cape Verde
-- [ ] Central African Republic
-- [ ] Chad
+- [x] Cambodia
+- [x] Cameroon
+- [x] Cape Verde
+- [x] Central African Republic
+- [x] Chad
 - [ ] China PR
 - [ ] Chinese Taipei
 - [ ] Comoros

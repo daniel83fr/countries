@@ -9,55 +9,57 @@ carrying the rhythm, water-drum pulse borrowed from Aka forest music
 traditions, opening into a full-band chorus with massed crowd vocals under
 a canopy-green banner.
 
-LYRICS:
+LYRICS (Sango, with a French verse reflecting the country's other official language):
 
 [Intro]
 (Ngbaka log-drum pattern builds under a balafon run)
 Centrafrique... zo kwe zo...
 
-[Verse 1]
-Rainforest canopy stretches farther than the eye can trace,
-Ubangi River carrying more than water through this place,
-Elephants move quiet through the Dzanga-Sangha green,
-And every match-day gathering is the loudest forest scene.
+[Bango 1 — Sango]
+Ngonda ayeke fani mingi ahon so lê andu,
+Ubangi ngu ague na akpa gbata mingi ahon ngu gi,
+Adongo asara ndeke na yâ Dzanga-Sangha ti kete,
+Na lâ ti masua so gerê nyongo asara ngonda ni kono mingi.
 
-[Pre-Chorus]
-From the river's winding bend to the balafon's wooden keys,
-One nation built on dignity that never learned to freeze.
+[Kôzo ti Bê]
+Ti londo na tere ti ngu ague juska na alêngo ti balafon,
+Kodoro oko so alu na dignité so alinga zonga ape.
 
-[Chorus] (viral hook, Sango + English — the real national motto)
-Zo kwe zo! Zo kwe zo!
-(Every person is a person! Every person is a person!)
-Centrafrique, zo kwe zo!
-(Central Africa, every person is a person!)
-
-[Verse 2]
-The balafon key rings the way it's rung for centuries past,
-Dignity is the one thing built to always last,
-Doesn't matter what the outside world has said or shown,
-We are the forest nation standing on our own.
-
-[Chorus]
+[Bê] — the hook: "Zo kwe zo" is the real national motto, "every person is a person"
 Zo kwe zo! Zo kwe zo!
 Centrafrique, zo kwe zo!
+Zo kwe zo! Zo kwe zo!
 
-[Bridge]
-Every person matters, that's the oldest creed,
-Written in our motto, planted like a seed —
-River water, forest green, balafon key,
-This is the anthem of a nation that's free.
+[Couplet 2 — Français]
+Chaque touche du balafon résonne comme depuis des siècles passés,
+La dignité est la seule chose bâtie pour toujours durer,
+Peu importe ce que le monde extérieur a dit ou montré,
+Nous sommes la nation de la forêt, debout, jamais courbée.
 
-[Final Chorus — full crowd]
+[Bê]
+Zo kwe zo! Zo kwe zo!
+Centrafrique, zo kwe zo!
+
+[Lê ti Bengo]
+Zo oko oko ayeke kota ye, so yeke kozo ndia ti e,
+Asû na yâ ti devise ti e, alu tongana lê ti kobe —
+Ngu, ngonda ti kete, balafon,
+Ye so ayeke bango ti kodoro so ayeke na liberté.
+
+[Bê ti Ndani]
 Zo kwe zo! Zo kwe zo!
 Centrafrique, zo kwe zo!
 Zo kwe zo!
 
-[Outro — chant tag]
+[Ndani]
 Centrafrique! Zo kwe zo!
 
 CULTURAL NOTE:
 Built directly on "Zo kwe zo" ("every person is a person"), the Central
 African Republic's actual national motto in Sango — a real, deeply
 meaningful phrase about human dignity — paired with the Ubangi River and
-the country's genuine rainforest landscape. Have a native Sango speaker
-review phrasing before recording.
+the country's genuine rainforest landscape. Written primarily in Sango
+with a French verse, reflecting both official languages; have native
+Sango and French speakers each review their part before recording — the
+Sango here is a best-effort draft given limited training data in this
+language.
