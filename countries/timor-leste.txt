@@ -10,49 +10,48 @@ guitarra melody woven through the verses, opening into a full-band chorus
 with massed crowd vocals — the sound of tais cloth patterns turned into
 music.
 
-LYRICS:
+LYRICS (Tetum verse, Portuguese verse — Timor-Leste's two official languages):
 
 [Intro]
 (Babadok drum pulse rises under a bamboo dadolek pattern)
 Timor Lorosa'e... Timor Lorosa'e...
 
-[Verse 1]
-Mountains catch the first light before the rest of the world wakes,
-Coffee grown on terraced slopes for a hundred harvests' sake,
-Tais cloth woven thread by thread with stories none can steal,
-A young nation born from struggle learning how to heal.
+[Versu 1 — Tetum]
+Foho sira kaptura naroman uluk liu antes mundu seluk hadeer,
+Kafé kuda iha lakan-badak ba fulan-fulan produsaun ba atus tinan,
+Tais tain hosi liña ida-idak ho istoria ida ke ema seidauk hasees,
+Nasaun foun ida moris husi luta, aprende atu kura an.
 
-[Pre-Chorus]
-From the mountain ridge at sunrise to the harbor's morning tide,
-One small nation, newly standing, carrying its pride.
+[Pré-Refrão — Português]
+Da crista da montanha ao amanhecer até a maré da manhã no porto,
+Uma pequena nação, recém-erguida, carregando o seu orgulho, o seu norte.
 
-[Chorus] (viral hook, Tetum + English)
-Timor Lorosa'e! Timor Lorosa'e!
-(Land of the rising sun! Land of the rising sun!)
-Ita nia rai, Timor Lorosa'e!
-(This is our land, land of the rising sun!)
-
-[Verse 2]
-Every thread of every tais tells a story that survived,
-Every mountain village proved this nation stayed alive,
-When the whistle blows the young flag rises with the sun,
-This is a country still writing the story it's begun.
-
-[Chorus]
+[Refrén / Refrão] — the hook: "Timor Lorosa'e" means "Land of the Rising Sun"; "ita nia rai" means "this is our land"
 Timor Lorosa'e! Timor Lorosa'e!
 Ita nia rai, Timor Lorosa'e!
+Timor Lorosa'e!
 
-[Bridge]
-The sun rises first here before anywhere near,
-A young nation's morning, proud and clear —
-Woven thread and mountain, coffee and the tide,
-This is the anthem of a nation's rising pride.
+[Versu 2 — Tetum]
+Fiu ida-idak husi tais ida-idak konta istoria ne'ebé la mate,
+Foho-foho aldeia hotu prova katak nasaun ida ne'e kontinua moris,
+Bainhira apitu soa, bandeira foun sa'e hamutuk ho loro-matan,
+Ida ne'e mak nasaun ida seidauk hotu hakerek nia istoria.
 
-[Final Chorus — full crowd]
+[Refrén]
 Timor Lorosa'e! Timor Lorosa'e!
 Ita nia rai, Timor Lorosa'e!
 
-[Outro — chant tag]
+[Ponte — Português]
+O sol nasce primeiro aqui antes de qualquer lugar perto,
+A manhã de uma jovem nação, orgulhosa e desperta —
+Fio tecido e montanha, café e a maré que retorna,
+Este é o hino do orgulho de uma nação que se adorna.
+
+[Refrén Final]
+Timor Lorosa'e! Timor Lorosa'e!
+Ita nia rai, Timor Lorosa'e!
+
+[Rematadura]
 Timor Lorosa'e! Timor Lorosa'e!
 
 CULTURAL NOTE:
@@ -60,5 +59,6 @@ Built on "Timor Lorosa'e," Timor-Leste's own Tetum name for itself ("Land
 of the Rising Sun," referencing the sunrise seen from its eastern tip), and
 tais, the traditional hand-woven cloth whose patterns carry family and
 regional identity. Frames the country's youth as a story since independence
-rather than generic pride. Have a native Tetum speaker review phrasing
-before recording.
+rather than generic pride. Written with one full Tetum verse and one full
+Portuguese verse to represent both official languages; have native Tetum
+and Portuguese speakers each review their half before recording.

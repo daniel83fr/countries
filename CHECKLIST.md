@@ -244,13 +244,20 @@ new entries follow the stricter rule.
 
 ---
 
-## LANGUAGE RETROFIT PASS
+## LANGUAGE RETROFIT PASS — COMPLETE (67/67)
 
 An audit found 67 songs (mostly the original AFC/CAF batch, plus a few
 scattered later entries) were written English-dominant with just native
 phrases sprinkled in, rather than full official-language lyrics. This
-section tracks converting each to official-language-only lyrics (max
-1-2 sentences of English), per user request.
+section tracked converting each to official-language-only lyrics (max
+1-2 sentences of English), per user request. All 67 are now retrofitted.
+
+Many entries are in romanized/transliterated form for languages with
+non-Latin scripts (Arabic, Korean, Japanese, Thai, Khmer, Hindi, Bengali,
+Amharic, Dzongkha, etc.) — each file's cultural note says so and asks for
+a native speaker to convert to native script and polish grammar before
+recording. A handful of very low-resource languages (Dzongkha, Dhivehi,
+Kyrgyz, Mongolian, Tajik) carry an extra low-confidence flag.
 
 - [x] Afghanistan
 - [x] Algeria
@@ -313,9 +320,9 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Syria
 - [x] Tajikistan
 - [x] Thailand
-- [ ] Timor-Leste
-- [ ] Turkmenistan
-- [ ] United Arab Emirates
-- [ ] Uzbekistan
-- [ ] Vietnam
-- [ ] Yemen
+- [x] Timor-Leste
+- [x] Turkmenistan
+- [x] United Arab Emirates
+- [x] Uzbekistan
+- [x] Vietnam
+- [x] Yemen

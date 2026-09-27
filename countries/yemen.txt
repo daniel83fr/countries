@@ -9,50 +9,49 @@ the oud) carrying the melody over a hand-drum rhythm rooted in Sana'ani
 sung poetry, mudbrick-tower ambience in the verses, opening into a
 full-band arena chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Arabic, transliterated):
 
-[Intro]
+[Muqaddima]
 (Qanbus lute figure over a slow hand-drum pulse)
 Ya Yaman... ya Yaman...
 
-[Verse 1]
-Mudbrick towers rise from Sana'a like a city carved from bread,
-Coffee first grew on these terraced hills before the word was said,
-Frankincense and myrrh once made this coast the whole world's prize,
-And every generation still can read it in the skies.
+[Maqta' 1]
+Abraj al-tin tartafi'u min San'a' ka-madina munhuta min khubz,
+Al-qahwa nabatat awwalan 'ala hadhihi al-tilal al-mudarraja qabla an tuqal al-kalima,
+Al-lubban wa al-murr ja'ala hadha al-sahil jayzata al-'alam kullihi marratan,
+Wa kullu jeel la yazalu yaqra'uha fi al-sama'.
 
-[Pre-Chorus]
-From the terraced mountain coffee field to the harbor's open door,
-This is a people who have carried pride through so much more.
+[Qabla al-Jawqa]
+Min haql al-qahwa al-mudarraj fi al-jabal ila bab al-mina' al-maftuh,
+Hadha sha'b hamala al-fakhr 'abra kathir akthar min qabl.
 
-[Chorus] (viral hook, Arabic + English)
-Ya Yaman! Ya Yaman al-habib!
-(O Yemen! O beloved Yemen!)
-Yalla Yaman, ya Yaman al-habib!
-(Come on Yemen, O beloved Yemen!)
-
-[Verse 2]
-Before the world knew coffee, our hills already knew the taste,
-Every terrace carved by hand, no harvest ever went to waste,
-When the whole diaspora gathers around one single screen,
-We are still the people of the coast and the ravine.
-
-[Chorus]
+[al-Jawqa] — the hook: "Ya Yaman al-habib" means "O beloved Yemen"
 Ya Yaman! Ya Yaman al-habib!
 Yalla Yaman, ya Yaman al-habib!
+Ya Yaman! Ya Yaman al-habib!
 
-[Bridge]
-Mudbrick tower standing tall against the years,
-Coffee terrace carved through hope, not fears —
-Oud string answering the mountain's call,
-This is the anthem that won't let us fall.
+[Maqta' 2]
+Qabla an ya'rifa al-'alam al-qahwa, kanat tilaluna ta'rifu al-ta'm bi-alfan,
+Kullu madraja manhuta bi-al-yad, la hasad dhahaba hadran abadan,
+'Indama yajtami'u al-shatat kulluhu hawla shasha wahida,
+Nahnu ba'du sha'b al-sahil wa al-wadi al-'amiq.
 
-[Final Chorus — full stadium]
+[al-Jawqa]
+Ya Yaman! Ya Yaman al-habib!
+Yalla Yaman, ya Yaman al-habib!
+
+[al-Jisr]
+Burj tini waqifun 'aliyan didda al-sinin,
+Madraj qahwa manhut 'abra al-amal, la al-khawf —
+Watar al-'ud yujib 'ala nida' al-jabal,
+Hadhihi ughniya lan tada'na naskutu.
+
+[al-Jawqa al-Akhira]
 Ya Yaman! Ya Yaman al-habib!
 Yalla Yaman, ya Yaman al-habib!
 Ya Yaman! Ya Yaman!
 
-[Outro — chant tag]
+[al-Khatima]
 Yaman! Yaman! Ya habib!
 
 CULTURAL NOTE:

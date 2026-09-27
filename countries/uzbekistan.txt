@@ -9,50 +9,49 @@ doira frame-drum rhythm, maqom-style vocal ornamentation in the verses,
 opening into a full-band arena chorus with massed crowd vocals echoing
 the tiled domes of Samarkand.
 
-LYRICS:
+LYRICS (Uzbek):
 
-[Intro]
+[Kirish]
 (Dutar figure over a slow doira frame-drum pulse)
 O'zbekiston... oldinga...
 
-[Verse 1]
-Registan's tiles still catch the sun the way they did before,
-Caravans once carried silk through here from shore to distant shore,
-Every family's table holds a plov pot passed by hand,
-Every wrestler's grip still honors how this land was planned.
+[Band 1]
+Registon koshinlari quyoshni avvalgidek tutib turibdi hamon,
+Karvonlar bir paytlar ipakni shu yerdan sohildan sohilga tashigan,
+Har oilaning dasturxonida qo'ldan-qo'lga o'tgan osh qozoni bor,
+Har polvonning changali bu yer qanday qurilganini hurmat qiladi.
 
-[Pre-Chorus]
-From the turquoise dome at sunrise to the cotton field below,
-One nation, ancient crossroads, carrying its glow.
+[Naqarotdan Oldin]
+Tongdagi zangori gumbazdan pastdagi paxta dalasigacha,
+Bir millat, qadimiy chorraha, o'z nurini olib boradi.
 
-[Chorus] (viral hook, Uzbek + English)
-O'zbekiston, oldinga! O'zbekiston, oldinga!
-(Uzbekistan, forward! Uzbekistan, forward!)
-Birga, birga — O'zbekiston, oldinga!
-(Together, together — Uzbekistan, forward!)
-
-[Verse 2]
-Kurash wrestlers grip the belt the way their fathers always did,
-Every empire passed through here, but we're the ones who stayed,
-When the whole stand rises for the whistle and the run,
-We carry the same crossroads pride that empires never won.
-
-[Chorus]
+[Naqarot] — the hook: "oldinga" means "forward"; "birga" means "together"
 O'zbekiston, oldinga! O'zbekiston, oldinga!
 Birga, birga — O'zbekiston, oldinga!
+O'zbekiston, oldinga!
 
-[Bridge]
-Silk Road dust still settles on the same old stone,
-Every caravan that passed here left us more than gone —
-Dutar string and drumbeat, tile and dome,
-This is the anthem of a crossroads that calls this home.
+[Band 2]
+Kurash polvonlari belbog'ni otalari kabi ushlaydi hamon,
+Har bir imperiya bu yerdan o'tdi, lekin qolganlar bizmiz,
+Butun stadion hakam signali va yugurishga o'rnidan turganda,
+Biz imperiyalar hech qachon yenga olmagan chorraha g'ururini olib boramiz.
 
-[Final Chorus — full crowd]
+[Naqarot]
+O'zbekiston, oldinga! O'zbekiston, oldinga!
+Birga, birga — O'zbekiston, oldinga!
+
+[Ko'prik]
+Ipak yo'li changi hamon o'sha eski toshga o'tiradi,
+Bu yerdan o'tgan har bir karvon bizga ko'proq narsa qoldirdi —
+Dutar torlari va doira ritmi, koshinlar va gumbaz,
+Bu — o'zini uy deb ataydigan chorrahaning madhiyasidir.
+
+[Oxirgi Naqarot]
 O'zbekiston, oldinga! O'zbekiston, oldinga!
 Birga, birga — O'zbekiston, oldinga!
 Oldinga! Oldinga!
 
-[Outro — chant tag]
+[Yakun]
 O'zbekiston! Oldinga!
 
 CULTURAL NOTE:
