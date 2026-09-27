@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Japan.
+the list in the order below — next up: Lebanon.
 
 ## AFC (46)
 
@@ -23,11 +23,11 @@ the list in the order below — next up: Japan.
 - [x] Indonesia
 - [x] Iran
 - [x] Iraq
-- [ ] Japan
-- [ ] Jordan
-- [ ] Kuwait
-- [ ] Kyrgyzstan
-- [ ] Laos
+- [x] Japan
+- [x] Jordan
+- [x] Kuwait
+- [x] Kyrgyzstan
+- [x] Laos
 - [ ] Lebanon
 - [ ] Macau
 - [ ] Malaysia
