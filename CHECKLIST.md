@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Brunei Darussalam.
+the list in the order below — next up: Hong Kong.
 
 ## AFC (46)
 
@@ -13,11 +13,11 @@ the list in the order below — next up: Brunei Darussalam.
 - [x] Bahrain
 - [x] Bangladesh
 - [x] Bhutan
-- [ ] Brunei Darussalam
-- [ ] Cambodia
-- [ ] China PR
-- [ ] Chinese Taipei
-- [ ] Guam
+- [x] Brunei Darussalam
+- [x] Cambodia
+- [x] China PR
+- [x] Chinese Taipei
+- [x] Guam
 - [ ] Hong Kong
 - [ ] India
 - [ ] Indonesia
