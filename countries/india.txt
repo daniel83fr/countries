@@ -9,51 +9,50 @@ and shehnai carrying the melodic hook, harmonium swells building the
 pre-chorus, exploding into a full orchestral-Bollywood chorus with massed
 crowd vocals — the sound of a cricket stadium turned into a movie theme.
 
-LYRICS:
+LYRICS (Hindi, romanized):
 
-[Intro]
+[Bhoomika]
 (Tabla roll under a rising shehnai line)
 Bharat... Bharat mata ki...
 
-[Verse 1]
-From the Himalayan snow line down to Kanyakumari's shore,
-A billion different languages all shouting for one score,
-Holi colors in the crowd like the whole sky came undone,
-Every train, every rooftop watching one single run.
+[Antara 1]
+Himalaya ki barf se lekar Kanyakumari ke kinare tak,
+Ek arab alag bhashayein ek hi score ke liye chillati hain,
+Bheed mein Holi ke rang jaise pura aasman khul gaya ho,
+Har train, har chhat ek hi run ko dekh rahi hai.
 
-[Pre-Chorus]
-From the tea gardens of Assam to the Thar's golden sand,
-One team, one roar, one heartbeat across the whole land.
+[Chorus Se Pehle]
+Assam ke chai baghon se Thar ke sunehre ret tak,
+Ek team, ek garjan, ek dhadkan pure desh mein.
 
-[Chorus] (viral hook, Hindi + English — an actual popular stadium chant)
+[Chorus] — an actual popular Indian cricket-stadium chant meaning "we will win, brother, India will win"
 Jeetega bhai jeetega, Hindustan jeetega!
-(We will win, brother, we will win, India will win!)
+Jeetega bhai jeetega, Hindustan jeetega!
 Jeetega bhai jeetega, Hindustan jeetega!
 
-[Verse 2]
-A rickshaw driver's radio, a rooftop satellite dish,
-Every single household making the exact same wish,
-When the last ball's bowled and the whole country holds its breath,
-This is a nation that has never once bet less than everything it's got left.
+[Antara 2]
+Ek rickshaw wale ka radio, ek chhat par satellite dish,
+Har ek ghar wahi ek jaisi ichha kar raha hai,
+Jab aakhri gend phenki jaati hai aur pura desh saans rok leta hai,
+Yeh ek aisa desh hai jisne kabhi kuch bhi kam daav par nahi lagaya.
 
 [Chorus]
 Jeetega bhai jeetega, Hindustan jeetega!
 Jeetega bhai jeetega, Hindustan jeetega!
 
-[Bridge]
-Saffron, white and green against the evening sky,
-A billion hearts beating for the same reply —
-We are the crowd that never sits back down,
-We are the noise that wears the whole world's crown.
+[Setu]
+Kesariya, safed aur hara shaam ke aasman ke saamne,
+Ek arab dil ek hi jawab ke liye dhadak rahe hain —
+Hum wo bheed hain jo kabhi baithti nahi,
+Hum wo shor hain jo duniya ka taaj pehanta hai.
 
-[Final Chorus — full stadium]
+[Antim Chorus]
 Jeetega bhai jeetega, Hindustan jeetega!
 Jeetega bhai jeetega, Hindustan jeetega!
 Jeetega! Jeetega!
 
-[Outro — chant tag]
+[Samapti]
 Bharat mata ki jai!
-(Victory to Mother India!)
 
 CULTURAL NOTE:
 Uses "Jeetega bhai jeetega, Hindustan jeetega," a genuine, already-viral
@@ -61,4 +60,6 @@ chant heard in Indian cricket stadiums, as the chorus hook rather than
 inventing one from scratch, alongside Holi color imagery and the
 Himalaya-to-Kanyakumari span that captures the country's scale and
 diversity in one line. "Bharat Mata Ki Jai" is a real, widely used
-patriotic chant used as the closing tag.
+patriotic chant used as the closing tag. Written in romanized Hindi; have
+a native Hindi speaker convert to Devanagari script and review grammar
+before recording.

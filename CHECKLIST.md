@@ -278,11 +278,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Equatorial Guinea
 - [x] Eritrea
 - [x] Ethiopia
-- [ ] Gabon
-- [ ] Guinea-Bissau
-- [ ] Guinea
-- [ ] Hong Kong
-- [ ] India
+- [x] Gabon
+- [x] Guinea-Bissau
+- [x] Guinea
+- [x] Hong Kong
+- [x] India
 - [ ] Indonesia
 - [ ] Iran
 - [ ] Iraq

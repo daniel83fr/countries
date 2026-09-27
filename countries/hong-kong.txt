@@ -9,50 +9,49 @@ dragon-boat drum sets the pulse (the actual paced heartbeat rowers race to),
 gongs and cymbals from lion dance tradition punctuating the verses, synths
 and electric guitar lifting the chorus into full Cantopop-arena scale.
 
-LYRICS:
+LYRICS (Cantonese, romanized):
 
-[Intro]
+[Hoi Coeng]
 (Dragon-boat drum beats a steady racing pulse)
 Heung Gong... ga yau...
 
-[Verse 1]
-Neon rivers running down between the mountain and the bay,
-A hundred paddles hitting water in the same tight sway,
-Victoria Harbour holds the lights of a million different dreams,
-Small on the map but louder than a city twice its size seems.
+[Go Ci 1]
+Nghoi hung dang fo lau lok soeng saan tung hoi wan zi gaan,
+Jat baak zi jeung paak bo daa seoi tung jat go zit zau,
+Victoria Harbour dai zyu jat baak maan go m tung ge mung soeng,
+Siu siu ge dei tou daan hei loi bei loeng bui daai ge sing si zung daai.
 
-[Pre-Chorus]
-From the peak above the skyline to the harbour down below,
-This city rows together, this city finds its flow.
+[Fu Go Cin]
+Cung saan deng heung ha tou gong bin,
+Ni go sing si jat cai wak syun, ni go sing si wan dou zi gei ge liu.
 
-[Chorus] (viral hook, Cantonese + English)
+[Fu Go] — the hook: "ga yau" means "go/add oil"
 Heung Gong, ga yau! Heung Gong, ga yau!
-(Hong Kong, go! Hong Kong, go!)
-Yat chai ga yau, Heung Gong ga yau!
-(Everyone together, go Hong Kong!)
+Jat cai ga yau, Heung Gong ga yau!
+Heung Gong, ga yau!
 
-[Verse 2]
-The drummer at the bow keeps time for every straining arm,
-No storm has ever sunk the pride that keeps this harbour warm,
-Underdogs before the whistle, still we take the field,
-This city never learned the shape of standing down or kneeled.
+[Go Ci 2]
+Dai tau ge gu sau bong mui jat tiu sau bei zyu jip zau,
+Mou jat ci fung bou zang jam mut gwo wu wo ge zi hou,
+Wai sin cin ngo dei zung hai coi coi soeng coeng,
+Ni go sing si cung loi mou hok gwo tau haang waak gwai baai.
 
-[Chorus]
+[Fu Go]
 Heung Gong, ga yau! Heung Gong, ga yau!
-Yat chai ga yau, Heung Gong ga yau!
+Jat cai ga yau, Heung Gong ga yau!
 
-[Bridge]
-Every paddle stroke is a heartbeat we all share,
-Every drumbeat says that we are always there —
-Skyscraper shadows, harbour lights below,
-This is the rhythm only Hong Kong knows.
+[Kiu]
+Mui jat haa zi gaan dou hai daai gaa gung heung ge sam tiu,
+Mui ha gu seng dou wa ngo dei wing jyun hai dou —
+Mo tin dai ha, wu wo dang gwong,
+Ni go dit zau zi jau Heung Gong sik.
 
-[Final Chorus — full crowd]
+[Zeoi Hau Fu Go]
 Heung Gong, ga yau! Heung Gong, ga yau!
-Yat chai ga yau, Heung Gong ga yau!
+Jat cai ga yau, Heung Gong ga yau!
 Ga yau! Ga yau!
 
-[Outro — chant tag]
+[Git Mei]
 Ga yau! Ga yau! Heung Gong!
 
 CULTURAL NOTE:
@@ -60,5 +59,6 @@ Centers on dragon boat racing, one of Hong Kong's most globally recognized
 and genuinely home-grown sports traditions, alongside Victoria Harbour's
 iconic skyline. "Ga yau" (加油) is the Cantonese reading of the same cheer
 used across the Chinese-speaking world, written here specifically as
-Hongkongers say it. Have a native Cantonese speaker confirm tone and
-phrasing before recording.
+Hongkongers say it. Written in romanized Cantonese (Jyutping-style); have
+a native Cantonese speaker confirm characters, tone, and phrasing before
+recording.
