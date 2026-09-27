@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Comoros.
+the list in the order below — next up: Equatorial Guinea.
 
 ## AFC (46) — complete
 
@@ -67,11 +67,11 @@ the list in the order below — next up: Comoros.
 - [x] Cape Verde
 - [x] Central African Republic
 - [x] Chad
-- [ ] Comoros
-- [ ] Congo
-- [ ] DR Congo
-- [ ] Djibouti
-- [ ] Egypt
+- [x] Comoros
+- [x] Congo
+- [x] DR Congo
+- [x] Djibouti
+- [x] Egypt
 - [ ] Equatorial Guinea
 - [ ] Eritrea
 - [ ] Eswatini
