@@ -3,8 +3,8 @@
 Exhaustive list of all FIFA member countries/territories, grouped by confederation.
 
 Each checked country has a completed song brief (title, style tag, full
-lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: US Virgin Islands.
+lyrics, cultural note) in its `countries/<slug>.txt` file. All FIFA member
+associations are now complete.
 
 FORMAT CHANGE (from Kenya onward): lyrics are written fully in the
 country's official language(s), with at most 1-2 sentences of English
@@ -62,7 +62,7 @@ new entries follow the stricter rule.
 - [x] Vietnam
 - [x] Yemen
 
-## CAF (54)
+## CAF (54) — complete
 
 - [x] Algeria
 - [x] Angola
@@ -119,7 +119,7 @@ new entries follow the stricter rule.
 - [x] Zambia
 - [x] Zimbabwe
 
-## CONCACAF (35)
+## CONCACAF (35) — complete
 
 - [x] Anguilla
 - [x] Antigua and Barbuda
@@ -154,90 +154,90 @@ new entries follow the stricter rule.
 - [x] Suriname
 - [x] Trinidad and Tobago
 - [x] Turks and Caicos Islands
-- [ ] US Virgin Islands
-- [ ] United States
+- [x] US Virgin Islands
+- [x] United States
 
-## CONMEBOL (10)
+## CONMEBOL (10) — complete
 
-- [ ] Argentina
-- [ ] Bolivia
-- [ ] Brazil
-- [ ] Chile
-- [ ] Colombia
-- [ ] Ecuador
-- [ ] Paraguay
-- [ ] Peru
-- [ ] Uruguay
-- [ ] Venezuela
+- [x] Argentina
+- [x] Bolivia
+- [x] Brazil
+- [x] Chile
+- [x] Colombia
+- [x] Ecuador
+- [x] Paraguay
+- [x] Peru
+- [x] Uruguay
+- [x] Venezuela
 
-## OFC (11)
+## OFC (11) — complete
 
-- [ ] American Samoa
-- [ ] Cook Islands
-- [ ] Fiji
-- [ ] New Caledonia
-- [ ] New Zealand
-- [ ] Papua New Guinea
-- [ ] Samoa
-- [ ] Solomon Islands
-- [ ] Tahiti
-- [ ] Tonga
-- [ ] Vanuatu
+- [x] American Samoa
+- [x] Cook Islands
+- [x] Fiji
+- [x] New Caledonia
+- [x] New Zealand
+- [x] Papua New Guinea
+- [x] Samoa
+- [x] Solomon Islands
+- [x] Tahiti
+- [x] Tonga
+- [x] Vanuatu
 
-## UEFA (55)
+## UEFA (55) — complete
 
-- [ ] Albania
-- [ ] Andorra
-- [ ] Armenia
-- [ ] Austria
-- [ ] Azerbaijan
-- [ ] Belarus
-- [ ] Belgium
-- [ ] Bosnia and Herzegovina
-- [ ] Bulgaria
-- [ ] Croatia
-- [ ] Cyprus
-- [ ] Czech Republic
-- [ ] Denmark
-- [ ] England
-- [ ] Estonia
-- [ ] Faroe Islands
-- [ ] Finland
-- [ ] France
-- [ ] Georgia
-- [ ] Germany
-- [ ] Gibraltar
-- [ ] Greece
-- [ ] Hungary
-- [ ] Iceland
-- [ ] Israel
-- [ ] Italy
-- [ ] Kazakhstan
-- [ ] Kosovo
-- [ ] Latvia
-- [ ] Liechtenstein
-- [ ] Lithuania
-- [ ] Luxembourg
-- [ ] Malta
-- [ ] Moldova
-- [ ] Montenegro
-- [ ] Netherlands
-- [ ] North Macedonia
-- [ ] Northern Ireland
-- [ ] Norway
-- [ ] Poland
-- [ ] Portugal
-- [ ] Republic of Ireland
-- [ ] Romania
-- [ ] Russia
-- [ ] San Marino
-- [ ] Scotland
-- [ ] Serbia
-- [ ] Slovakia
-- [ ] Slovenia
-- [ ] Spain
-- [ ] Sweden
-- [ ] Switzerland
-- [ ] Turkey
-- [ ] Ukraine
-- [ ] Wales
+- [x] Albania
+- [x] Andorra
+- [x] Armenia
+- [x] Austria
+- [x] Azerbaijan
+- [x] Belarus
+- [x] Belgium
+- [x] Bosnia and Herzegovina
+- [x] Bulgaria
+- [x] Croatia
+- [x] Cyprus
+- [x] Czech Republic
+- [x] Denmark
+- [x] England
+- [x] Estonia
+- [x] Faroe Islands
+- [x] Finland
+- [x] France
+- [x] Georgia
+- [x] Germany
+- [x] Gibraltar
+- [x] Greece
+- [x] Hungary
+- [x] Iceland
+- [x] Israel
+- [x] Italy
+- [x] Kazakhstan
+- [x] Kosovo
+- [x] Latvia
+- [x] Liechtenstein
+- [x] Lithuania
+- [x] Luxembourg
+- [x] Malta
+- [x] Moldova
+- [x] Montenegro
+- [x] Netherlands
+- [x] North Macedonia
+- [x] Northern Ireland
+- [x] Norway
+- [x] Poland
+- [x] Portugal
+- [x] Republic of Ireland
+- [x] Romania
+- [x] Russia
+- [x] San Marino
+- [x] Scotland
+- [x] Serbia
+- [x] Slovakia
+- [x] Slovenia
+- [x] Spain
+- [x] Sweden
+- [x] Switzerland
+- [x] Turkey
+- [x] Ukraine
+- [x] Wales
