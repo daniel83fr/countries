@@ -4,7 +4,7 @@ Exhaustive list of all FIFA member countries/territories, grouped by confederati
 
 Each checked country has a completed song brief (title, style tag, full
 lyrics, cultural note) in its `countries/<slug>.txt` file. Working through
-the list in the order below — next up: Palestine.
+the list in the order below — next up: South Korea.
 
 ## AFC (46)
 
@@ -38,11 +38,11 @@ the list in the order below — next up: Palestine.
 - [x] North Korea
 - [x] Oman
 - [x] Pakistan
-- [ ] Palestine
-- [ ] Philippines
-- [ ] Qatar
-- [ ] Saudi Arabia
-- [ ] Singapore
+- [x] Palestine
+- [x] Philippines
+- [x] Qatar
+- [x] Saudi Arabia
+- [x] Singapore
 - [ ] South Korea
 - [ ] Sri Lanka
 - [ ] Syria
