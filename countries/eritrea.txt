@@ -9,54 +9,55 @@ hook over a kebero hand-drum rhythm built to mimic a cyclist's steady
 cadence — a nod to Eritrea's real cycling culture — Art Deco Asmara street
 ambience, opening into a full-band chorus with massed crowd vocals.
 
-LYRICS:
+LYRICS (Tigrinya, romanized):
 
-[Intro]
+[Mekseri]
 (Krar lyre figure over a steady, pedaling kebero drum pulse)
 Eritrea... kedem...
 
-[Verse 1]
-Asmara's Art Deco cafés still hum with the same old song,
-Bicycles climb the highland roads where riders have trained so long,
-Red Sea coral waters keep a coastline no one can erase,
-Every hill this nation's climbed has carved us a harder pace.
+[Gemgem 1]
+Asmara kafe-tat Art Deco kalilen zeye deggemu zeliyu zema,
+Bishikletat rikab-rikab yikeb'u ridatat sebat n zeman se'lu,
+Qeyih baherAwi mereb koralat mieteb halafi zeyifilit,
+Kulu dabar zi hager sedduo aykokabo hade kbedet siruk.
 
-[Pre-Chorus]
-From the highland cycling road to the coffee cup's warm sway,
-One young nation, hard-earned, riding into the day.
+[Nikab Korus]
+Kab dabar bishiklet gebri wesken kab jebena buni sinu,
+Hade nesu hager, be'zub tekonimu, be'edmeti k'da'a.
 
-[Chorus] (viral hook, Tigrinya + English)
-Eritrea, kedem! Eritrea, kedem!
-(Eritrea, forward! Eritrea, forward!)
-Hade libbi — Eritrea, kedem!
-(One heart — Eritrea, forward!)
-
-[Verse 2]
-The cyclist doesn't stop for hills, he learns to love the climb,
-Every pedal stroke is proof of patience, proof of time,
-Doesn't matter how the years of struggle carved this land,
-We built endurance into something we could understand.
-
-[Chorus]
+[Korus] — the hook: "kedem" means "forward"; "hade libbi" means "one heart"
 Eritrea, kedem! Eritrea, kedem!
 Hade libbi — Eritrea, kedem!
+Eritrea, kedem! Eritrea, kedem!
 
-[Bridge]
-Every hill a lesson, every ride a test,
-Independence taught us how to give our best —
-Krar string and pedal stroke, side by side,
-This is the anthem of a highland pride.
+[Gemgem 2]
+Bishikleti sebet ab dabar aytiqefen, fiqri kebreta yimehar,
+Kulu megelbeti pedal misikirna nay tsibhu nay gizie mesikri,
+Aykonen kem-ay konat sebat n gedli hager sedduwo,
+Chibrat gaba kizab kela alena zineseb'na.
 
-[Final Chorus — full crowd]
+[Korus]
+Eritrea, kedem! Eritrea, kedem!
+Hade libbi — Eritrea, kedem!
+
+[Dagim]
+Kulu dabar hade timhrti, kulu resti hade fetni,
+Nqisna alemenayu kifin kegbar tsbuq kemzina —
+Krar hilti gaba pedal misikir, gura gura,
+Zeda hager tselal dabar.
+
+[Korus Dehri]
 Eritrea, kedem! Eritrea, kedem!
 Hade libbi — Eritrea, kedem!
 Kedem! Kedem!
 
-[Outro — chant tag]
+[Mewde'i]
 Eritrea! Kedem!
 
 CULTURAL NOTE:
 Built on Eritrea's genuine, world-renowned cycling culture (a legacy of
 Italian colonial-era roads that turned into one of Africa's strongest
-cycling traditions) and Asmara's UNESCO-listed Art Deco architecture. Have
-a native Tigrinya speaker review phrasing before recording.
+cycling traditions) and Asmara's UNESCO-listed Art Deco architecture.
+Written in romanized Tigrinya as a best-effort draft; have a native
+Tigrinya speaker convert to Ge'ez script and review grammar before
+recording.

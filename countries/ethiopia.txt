@@ -9,54 +9,55 @@ pentatonic melodic hook, kebero drum rhythm paced like a distance runner's
 stride building steadily faster, opening into a full-band chorus with
 massed crowd vocals — coffee-ceremony incense drifting through the mix.
 
-LYRICS:
+LYRICS (Amharic, romanized):
 
-[Intro]
+[Metaya]
 (Masinko fiddle line over a slow, steady kebero drum pulse)
 Ethiopia... kidmi...
 
-[Verse 1]
-Coffee was born on these highlands before the whole world knew its name,
-Lalibela's stone churches were carved from rock, not built the same,
-No flag has ever flown above us that we didn't choose ourselves,
-And every runner on this earth still chases what our highland tells.
+[Semmi 1]
+Buna kemezaz teqedeme diha alem semwa siyawq'a,
+Ye Lalibela dingay bétäkristiyanat kend teqeräxu, aydel tesera,
+Minim jenda beyayaten liyy anäbenmm, ye ni yasteqemelen,
+Wede rutsa hulu bä'alem yeleq'e haymanot yetegabale.
 
-[Pre-Chorus]
-From the highland trail at sunrise to the stadium's roaring crowd,
-One ancient nation, never conquered, running proud.
+[Kesteseriya Befit]
+Ke dabir menged setsehay yiwet'ta iske stadium chuhet dires,
+And ye tarik hager, mesiret alagegnem, be'kurat rutsa.
 
-[Chorus] (viral hook, Amharic + English)
-Ethiopia, kidmi! Ethiopia, kidmi!
-(Ethiopia, forward! Ethiopia, forward!)
-Andnet, Ethiopia, kidmi!
-(Unity — Ethiopia, forward!)
-
-[Verse 2]
-The runner starts in silence and finishes in a roar,
-Every stride a story that this highland's told before,
-Doesn't matter what the finish line or scoreboard shows the crowd,
-We are still the nation that has never had to bow.
-
-[Chorus]
+[Kôrus] — the hook: "kidmi" means "forward"; "andnet" means "unity"
 Ethiopia, kidmi! Ethiopia, kidmi!
 Andnet, Ethiopia, kidmi!
+Ethiopia, kidmi! Ethiopia, kidmi!
 
-[Bridge]
-Stone church carved from mountain, coffee from the ground,
-An ancient independent spirit, still unbound —
-Krar string and running stride as one,
-This is the anthem underneath the sun.
+[Semmi 2]
+Rützam bezeyet yishimer bechuhet yasereda,
+Yale ere ye dabir tarik yale filagoch new,
+Yemech'ereshaw menged weys ye score board min inidaye alfeleghim,
+Iñña gedma minim aydelenim yale hager nen.
 
-[Final Chorus — full crowd]
+[Kôrus]
+Ethiopia, kidmi! Ethiopia, kidmi!
+Andnet, Ethiopia, kidmi!
+
+[Diguswa]
+Dingay bétäkristiyan ke dabir teqeräxe, buna keäfär,
+Yale timihirt netsanet menfes, alagelegele —
+Krar hidät ena rutsa iregät gara,
+Yihe siretat wede tsehay new.
+
+[Mecheresha Kôrus]
 Ethiopia, kidmi! Ethiopia, kidmi!
 Andnet, Ethiopia, kidmi!
 Kidmi! Kidmi!
 
-[Outro — chant tag]
+[Mewedeya]
 Ethiopia! Kidmi!
 
 CULTURAL NOTE:
 Built on Ethiopia's real status as the birthplace of coffee, the rock-hewn
 churches of Lalibela, and the country's legendary distance-running
 tradition, alongside the genuine national pride in never having been
-colonized. Have a native Amharic speaker review phrasing before recording.
+colonized. Written in romanized Amharic as a best-effort draft; have a
+native Amharic speaker convert to Ge'ez script and review grammar before
+recording.

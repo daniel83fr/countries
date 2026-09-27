@@ -9,50 +9,49 @@ the pulse (the sound of a real Cairo street celebration), oud melody
 weaving through the verses, opening into a full-band arena chorus with
 massed crowd vocals under the shadow of the pyramids.
 
-LYRICS:
+LYRICS (Arabic, transliterated):
 
-[Intro]
+[Muqaddima]
 (Mizmar horn wail over a driving tabla baladi rhythm)
 Ya Misr... ya Misr...
 
-[Verse 1]
-The Nile has carried empires longer than the stars can trace,
-Pyramids still watch the sunrise catch a modern city's face,
-Every alley in Cairo hums a chant before the game,
-Five thousand years of history cheering for the same one name.
+[Maqta' 1]
+Al-Nil hamala imbraturiyat aqdam min ma tastati'u al-nujum an tarsumaha,
+Al-ahramat turaqibu al-shuruq yalmasu wajh madina haditha,
+Kullu haratin fi al-Qahira tuhamhimu hutafan qabl al-mubarat,
+Khamsat alaf 'am min al-tarikh tushajji'u nafs al-ism al-wahid.
 
-[Pre-Chorus]
-From the river's ancient current to the stadium's roaring stand,
-One nation, oldest story, but the youngest hand.
+[Qabla al-Jawqa]
+Min tayyar al-nahr al-qadim ila al-mudarraj al-hadir,
+Ummatun wahida, aqdam qissa, walakin bi-yad ashabb.
 
-[Chorus] (viral hook, Arabic + English)
-Ya Misr! Ya Misr al-habiba!
-(O Egypt! O beloved Egypt!)
-Yalla Misr, ya Misr al-habiba!
-(Come on Egypt, O beloved Egypt!)
-
-[Verse 2]
-The Pharaohs wear the shirt now, not the crown they wore of old,
-Every strike still carries stories thousands of years old,
-Doesn't matter what the modern scoreboard says tonight,
-We are still the river nation that first learned to write.
-
-[Chorus]
+[al-Jawqa] — the hook: "Ya Misr al-habiba" means "O beloved Egypt"
 Ya Misr! Ya Misr al-habiba!
 Yalla Misr, ya Misr al-habiba!
+Ya Misr! Ya Misr al-habiba!
 
-[Bridge]
-Stone remembers everyone who's ever come and gone,
-The river still keeps flowing and the song goes on —
-Mizmar horn and tabla, pyramid and sand,
-This is the anthem of the oldest land.
+[Maqta' 2]
+Al-Fara'ina yartadun al-qamis al-an, la al-taj alladhi kanu yartadunahu,
+Kullu darba la tazalu tahmilu qisasan 'umruha alaf al-sinin,
+La yuhimmu ma taquluhu al-nata'ij al-haditha al-layla,
+Nahnu ba'du ummat al-nahr allati 'allamat al-'alam al-kitaba awwalan.
 
-[Final Chorus — full stadium]
+[al-Jawqa]
+Ya Misr! Ya Misr al-habiba!
+Yalla Misr, ya Misr al-habiba!
+
+[al-Jisr]
+Al-hajar yatadhakkaru kulla man ja'a wa raha,
+Al-nahr yastamirru fi al-jarayan wa al-ughniya tastamirru,
+Mizmar wa tabla, haram wa raml,
+Hadhihi ughniyatu aqdam ard.
+
+[al-Jawqa al-Akhira]
 Ya Misr! Ya Misr al-habiba!
 Yalla Misr, ya Misr al-habiba!
 Ya Misr! Ya Misr!
 
-[Outro — chant tag]
+[al-Khatima]
 Misr! Misr! Ya habiba!
 
 CULTURAL NOTE:

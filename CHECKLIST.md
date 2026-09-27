@@ -272,12 +272,12 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Chinese Taipei
 - [x] Comoros
 - [x] Congo
-- [ ] Djibouti
+- [x] Djibouti
 - [x] DR Congo
-- [ ] Egypt
-- [ ] Equatorial Guinea
-- [ ] Eritrea
-- [ ] Ethiopia
+- [x] Egypt
+- [x] Equatorial Guinea
+- [x] Eritrea
+- [x] Ethiopia
 - [ ] Gabon
 - [ ] Guinea-Bissau
 - [ ] Guinea
