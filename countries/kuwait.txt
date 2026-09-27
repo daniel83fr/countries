@@ -9,50 +9,49 @@ melody over a fijiri hand-drum rhythm (the traditional pearl-diver work-song
 style), building into a synth-and-guitar arena chorus with massed crowd
 vocals under the shadow of the Kuwait Towers.
 
-LYRICS:
+LYRICS (Arabic, transliterated):
 
-[Intro]
+[Muqaddima]
 (Fijiri hand-drum pattern rises over a low oud drone)
 Yalla... yalla, Kuwait...
 
-[Verse 1]
-Before the towers rose against the desert evening sky,
-Our grandfathers sang fijiri songs to keep the pearl dive dry,
-Now the Gulf still catches gold light off three concrete spheres,
-And every match still gathers the same voices as those years.
+[Maqta' 1]
+Qabla an tartafi' al-abraj didda sama' al-sahra' al-masa'iya,
+Ajdaduna ghannu aghani al-fijiri li-yubqu ghaws al-lu'lu' jaffan,
+Al-an al-khalij la yazalu yaltaqitu daw'an dhahabiyan min kurat khirsaniya thalath,
+Wa kullu mubarat tajma'u nafs al-aswat min tilka al-sinin.
 
-[Pre-Chorus]
-From the pearl bed deep below to the tower's shining crown,
-Small nation, big heart — we never let it down.
+[Qabla al-Jawqa]
+Min qa' al-lu'lu' al-'amiq ila taj al-burj al-lami',
+Umma saghira, qalbun kabir — la nakhdhuluhu abadan.
 
-[Chorus] (viral hook, Arabic + English)
-Yalla Kuwait! Yalla Kuwait!
-(Come on, Kuwait! Come on, Kuwait!)
-Habibi, yalla Kuwait!
-(My love, come on Kuwait!)
-
-[Verse 2]
-The diver held his breath for pearls hidden in the deep,
-Now we hold our breath for every ball still in our sweep,
-Doesn't matter how the bigger nations count the score,
-We built a country out of open sea and open door.
-
-[Chorus]
+[al-Jawqa] — the hook: "yalla Kuwait" means "come on, Kuwait"
 Yalla Kuwait! Yalla Kuwait!
 Habibi, yalla Kuwait!
+Yalla Kuwait! Yalla Kuwait!
 
-[Bridge]
-No pearl too deep, no wave too rough to ride,
-We are the desert and the gulf tide side by side —
-Towers standing tall against the setting sun,
-This is the anthem of a small nation, one.
+[Maqta' 2]
+Al-ghawwas habasa anfasahu bahthan 'an lu'lu' makhfi fi al-a'maq,
+Al-an nahbisu anfasana li-kulli kura la tazalu fi masahatina,
+La yuhimmu kayfa ta'ummu al-umam al-akbar al-natija,
+Bananaa baladan min bahr maftuh wa bab maftuh.
 
-[Final Chorus — full crowd]
+[al-Jawqa]
+Yalla Kuwait! Yalla Kuwait!
+Habibi, yalla Kuwait!
+
+[al-Jisr]
+La lu'lu'a 'amiqa jiddan, la mawja qasiya jiddan lil-rukub,
+Nahnu al-sahra' wa madd al-khalij janban ila janb —
+Abraj waqifa 'aliya didda ghurub al-shams,
+Hadhihi ughniyatu umma saghira, wahida.
+
+[al-Jawqa al-Akhira]
 Yalla Kuwait! Yalla Kuwait!
 Habibi, yalla Kuwait!
 Yalla! Yalla! Kuwait!
 
-[Outro — chant tag]
+[al-Khatima]
 Yalla, yalla, Kuwait!
 
 CULTURAL NOTE:

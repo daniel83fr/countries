@@ -288,11 +288,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Iraq
 - [x] Ivory Coast
 - [x] Japan
-- [ ] Jordan
-- [ ] Kuwait
-- [ ] Kyrgyzstan
-- [ ] Laos
-- [ ] Lebanon
+- [x] Jordan
+- [x] Kuwait
+- [x] Kyrgyzstan
+- [x] Laos
+- [x] Lebanon
 - [ ] Macau
 - [ ] Malaysia
 - [ ] Maldives
