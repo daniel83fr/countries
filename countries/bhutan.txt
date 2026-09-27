@@ -10,50 +10,49 @@ call-and-response into a driving frame-drum stadium beat for the choruses —
 the sound of an archery-ground crowd singing between shots turned into a
 full anthem.
 
-LYRICS:
+LYRICS (Dzongkha, romanized):
 
-[Intro]
+[Gojong]
 (Long dungchen horn note fades under dranyen picking)
 Druk Yul... Druk Yul...
 
-[Verse 1]
-High where the prayer flags snap in the mountain wind,
-The archers draw their bows and the whole village grins,
-They sing before the arrow, they dance before the shot,
-Happiness is measured here by something gold can't buy or plot.
+[Tshig 1]
+Dardhar tsug sar lungmoi khorlo gi phurdu sar,
+Mida tsho dha phog tenpai yoezhi gakid gi dro,
+Mida madung shonpai ngoenla lu langte shom te chham,
+Gakid ni ser dhen gi nyola nyenpo min pai lam ley jung.
 
-[Pre-Chorus]
-From the dzong on the ridge to the valley below,
-One dragon, one kingdom, one heartbeat, one glow.
+[Doechu Gonda]
+Rizhi gi dzong ley lungshong yarla barwa,
+Druk chig, gyalkhab chig, nyingdu chig, oedzer chig.
 
-[Chorus] (viral hook, Dzongkha + English)
-Druk Yul! Druk Yul!
-(Land of the Thunder Dragon!)
-Druk Tsendhen, Druk Yul!
-(Our peaceful Thunder Dragon land!)
-
-[Verse 2]
-No trophy shines as bright as a target truly found,
-When the arrow lands the whole team turns and dances round,
-We didn't build our pride on how tall the towers grow,
-We built it on the mountain and the wind and what we know.
-
-[Chorus]
-Druk Yul! Druk Yul!
-Druk Tsendhen, Druk Yul!
-
-[Bridge]
-Count us not in medals but in mornings full of peace,
-The thunder in the dragon never has to cease —
-Small kingdom, quiet kingdom, steady as the snow,
-Watch us draw the bowstring and watch the arrow go.
-
-[Final Chorus — full crowd]
+[Doechu] — the hook: "Druk Yul" means "Land of the Thunder Dragon"
 Druk Yul! Druk Yul!
 Druk Tsendhen, Druk Yul!
 Druk Yul! Druk Yul!
 
-[Outro — chant tag]
+[Tshig 2]
+Ngedrub gi dam ni mida phog sai barpa lu jamdrag min,
+Mida phog sar sog lu chham te khorwa shom,
+Nga tsho gi nga rgyal ni potrang thowa la ma dhi,
+Ri dha lungmoi thoe dha shesyoen la dhi.
+
+[Doechu]
+Druk Yul! Druk Yul!
+Druk Tsendhen, Druk Yul!
+
+[Da-teb]
+Nga tsho mendel gi ma toe, zhindu gi droe la toe,
+Drukgi meme ni gakid gi gyuncha ma gyob —
+Gyalkhab chungku, zhi bai gyalkhab, kha ba zhindu tenpa,
+Zhung gi dhang phog dha mida gi song wa ta.
+
+[Doechu Tha-ma]
+Druk Yul! Druk Yul!
+Druk Tsendhen, Druk Yul!
+Druk Yul! Druk Yul!
+
+[Jugdon]
 Druk Yul! Druk Yul! Druk Yul!
 
 CULTURAL NOTE:
@@ -63,5 +62,7 @@ side — after every shot, plus the country's global reputation for
 prioritizing Gross National Happiness over GDP. "Druk Yul" (Land of the
 Thunder Dragon) is Bhutan's own name for itself in Dzongkha and is
 instantly recognizable to Bhutanese people, making it a natural, authentic
-chant. Have a native Dzongkha speaker confirm the verse phrasing before
-recording.
+chant. Written in romanized Dzongkha as a best-effort draft — Dzongkha is
+a language this model has low confidence in, so a native Dzongkha
+speaker/lyricist should treat the verses as a starting sketch to rework
+for correct grammar, script, and idiom before recording.

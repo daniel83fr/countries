@@ -258,11 +258,11 @@ section tracks converting each to official-language-only lyrics (max
 - [x] Angola
 - [x] Bahrain
 - [x] Bangladesh
-- [ ] Benin
-- [ ] Bhutan
-- [ ] Brunei Darussalam
-- [ ] Burkina Faso
-- [ ] Burundi
+- [x] Benin
+- [x] Bhutan
+- [x] Brunei Darussalam
+- [x] Burkina Faso
+- [x] Burundi
 - [ ] Cambodia
 - [ ] Cameroon
 - [ ] Cape Verde
